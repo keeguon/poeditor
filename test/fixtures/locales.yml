@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  refs: MyText
+  msgid: MyText
+  msgid_plural: MyText
+  msgstr_0: MyText
+  msgstr_1: MyText
+  locale: MyString
+
+two:
+  refs: MyText
+  msgid: MyText
+  msgid_plural: MyText
+  msgstr_0: MyText
+  msgstr_1: MyText
+  locale: MyString

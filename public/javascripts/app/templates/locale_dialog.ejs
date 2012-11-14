@@ -1,0 +1,31 @@
+<div class="modal-header">
+  <button type="button" class="close" data-dismiss="modal">&times;</button>
+  <h3>Edit locale</h3>
+</div>
+<div class="modal-body">
+  <form method="post" action="/locales/<%= id %>" class="form-horizontal">
+    <div class="control-group">
+      <label class="control-label" for="msgid">MSGID</label>
+      <div class="controls">
+        <input id="msgid" type="text" name="msgid" value="<%= msgid %>" disabled>
+      </div>
+    </div>
+    <div class="control-group">
+      <label class="control-label" for="msgstr_0">Translation</label>
+      <div class="controls">
+        <input id="msgstr_0" type="text" name="msgstr_0" value="<%= msgstr_0 || '' %>">
+      </div>
+    </div>
+    <div class="control-group">
+      <div class="controls">
+        <label class="checkbox">
+          <input type="checkbox" name="fuzzy" <% if (fuzzy) { %>checked<% } %>> Fuzzy
+        </label>
+      </div>
+    </div>
+  </form>
+</div>
+<div class="modal-footer">
+  <a href="#" class="btn cancel">Close</a>
+  <a href="#" class="btn btn-primary save">Save</a>
+</div>

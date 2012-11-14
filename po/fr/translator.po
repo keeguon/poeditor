@@ -1,0 +1,5232 @@
+msgid "Show"
+msgstr "Montrer"
+
+msgid "Edit"
+msgstr "Édition"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Are you sure that you want to delete %{record}?"
+msgstr "Êtes-vous sûr de vouloir supprimer %{record} ?"
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No %{entry} found"
+msgstr "Aucune %{entry} trouvées"
+
+msgid "1 %{entry}"
+msgstr "1 %{entry}"
+
+msgid "All %{size} %{entries}"
+msgstr ""
+
+msgid "%{first} - %{last} of %{size} %{entries}"
+msgstr ""
+
+msgid "contains"
+msgstr "contient"
+
+msgid "does not contain"
+msgstr "ne contient pas"
+
+msgid "is"
+msgstr "est"
+
+msgid "is not"
+msgstr "n'est pas"
+
+msgid "is not set"
+msgstr "pas défini"
+
+msgid "in"
+msgstr "parmi"
+
+msgid "> or ="
+msgstr "> ou ="
+
+msgid "< or ="
+msgstr "< ou ="
+
+msgid "true"
+msgstr ""
+
+msgid "false"
+msgstr "faux"
+
+msgid "%{page} was successfully created."
+msgstr "%{page} a été créé avec succès."
+
+#, fuzzy
+msgid "Newsletter"
+msgstr "Nouveau Client"
+
+msgid "Warning: %{obj} with ID %{id} does not exist!"
+msgstr ""
+
+msgid "%{page} was successfully updated."
+msgstr ""
+
+msgid "%{model} %{name} could not be deleted."
+msgstr ""
+
+#, fuzzy
+msgid "%{model} %{name} successfully deleted."
+msgstr "%{page} a été créé avec succès."
+
+msgid "Error: %{obj} not found!\""
+msgstr ""
+
+msgid "Errors found: %{n}"
+msgstr ""
+
+msgid "ERROR: incorrect parameters"
+msgstr ""
+
+msgid "Chart Framework"
+msgstr ""
+
+msgid "ChartFramework"
+msgstr ""
+
+msgid "AJAX only"
+msgstr ""
+
+msgid "Missing required parameter"
+msgstr "Des paramètres nécessaires sont manquants"
+
+msgid "Profile"
+msgstr ""
+
+msgid "Smart Query"
+msgstr ""
+
+msgid "SmartQuery"
+msgstr ""
+
+msgid "Invalid query. Data could not be recovered."
+msgstr ""
+
+msgid "Testimonial"
+msgstr ""
+
+msgid "Access"
+msgstr "Accès"
+
+msgid "[None]"
+msgstr "[Aucun]"
+
+msgid "Sale Item"
+msgstr ""
+
+#, fuzzy
+msgid "SaleItem"
+msgstr "Enregistrer"
+
+msgid "File not found!"
+msgstr ""
+
+msgid "Error: file invalid!"
+msgstr ""
+
+msgid "Error: data source empty!"
+msgstr ""
+
+msgid "Error: file type unknown!"
+msgstr ""
+
+msgid "File empty!"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "%{a} or %{b}"
+msgstr ""
+
+msgid "Server error!"
+msgstr ""
+
+msgid "Please retry"
+msgstr ""
+
+msgid "semicolon"
+msgstr ""
+
+msgid "comma"
+msgstr ""
+
+msgid "tab"
+msgstr ""
+
+msgid "Deleted %{file}"
+msgstr ""
+
+msgid "Could not delete %{file}"
+msgstr ""
+
+msgid "Wrong file format"
+msgstr ""
+
+msgid "Uploaded %{old_name} as %{new_name}"
+msgstr ""
+
+msgid "File could not be uploaded (%{error_msg})"
+msgstr ""
+
+#, fuzzy
+msgid "Commande"
+msgstr "Entreprise"
+
+msgid "Entreprise"
+msgstr ""
+
+msgid "Bg Worker"
+msgstr ""
+
+msgid "Job successfully run."
+msgstr ""
+
+msgid "Job could not be run!"
+msgstr ""
+
+msgid "Locks cleared."
+msgstr ""
+
+msgid "Locks could not be cleared!"
+msgstr ""
+
+msgid "Invalid name!"
+msgstr ""
+
+msgid "Task %{obj} could not be erased!"
+msgstr ""
+
+msgid "%{obj} successfully modified"
+msgstr "%{obj} a été modifié avec succès."
+
+msgid "Task"
+msgstr "Tâche"
+
+msgid "%{obj} could not be modified!"
+msgstr ""
+
+msgid "%{obj} destroyed."
+msgstr ""
+
+msgid "%{obj} could not be destroyed!"
+msgstr ""
+
+msgid "Task could not be added to job list!"
+msgstr ""
+
+msgid "Task added to job list."
+msgstr ""
+
+msgid "Worker did not start!"
+msgstr ""
+
+msgid "Worker running."
+msgstr ""
+
+msgid "KILL signal sent to process %{pid}."
+msgstr ""
+
+msgid "All %{obj} destroyed!"
+msgstr ""
+
+msgid "tasks"
+msgstr "taches"
+
+msgid "All %{obj} could not be destroyed!"
+msgstr ""
+
+msgid "Job invoked."
+msgstr ""
+
+msgid "Error: Job not invoked!"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "File invalid"
+msgstr ""
+
+msgid "This file is not standardized"
+msgstr ""
+
+msgid "Catchphrase"
+msgstr ""
+
+msgid "App Locale"
+msgstr ""
+
+msgid "Cannot launch tasks!"
+msgstr ""
+
+msgid "%{task} running in background"
+msgstr ""
+
+msgid "Translator"
+msgstr ""
+
+msgid "Automatic Translator"
+msgstr ""
+
+msgid "Cannot launch task!"
+msgstr ""
+
+#, fuzzy
+msgid "Page"
+msgstr "Par Page"
+
+msgid "Saved Report"
+msgstr ""
+
+#, fuzzy
+msgid "SavedReport"
+msgstr "Rapports..."
+
+msgid "Error: ill-formed request"
+msgstr ""
+
+msgid "Error: %{obj} not found!"
+msgstr ""
+
+msgid "Warning: invalid data"
+msgstr ""
+
+msgid "Company"
+msgstr "Entreprise"
+
+msgid "System Setting"
+msgstr ""
+
+msgid "SystemSetting"
+msgstr ""
+
+msgid "Generating Documentation"
+msgstr ""
+
+msgid "Log cleared"
+msgstr ""
+
+msgid "File %{file} already exist"
+msgstr ""
+
+msgid "File %{file} can't be uploaded"
+msgstr ""
+
+msgid "Book"
+msgstr ""
+
+msgid "Line"
+msgstr "Ligne"
+
+msgid "Uncatched Exception"
+msgstr ""
+
+msgid "UncatchedException"
+msgstr ""
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "You're now logged as %{login}"
+msgstr "Vous êtes désormais connecté en tant que %{login}"
+
+msgid "Connection failed - wrong login or password"
+msgstr ""
+
+msgid "Logged out"
+msgstr ""
+
+msgid "Not authorized!"
+msgstr ""
+
+msgid "Password confirmation mismatch!"
+msgstr ""
+
+msgid "Password changed"
+msgstr "Mot de passe changé"
+
+msgid "Password not changed!"
+msgstr "Mot de passe inchangé!"
+
+msgid "Please login to continue."
+msgstr ""
+
+msgid "Anonymous"
+msgstr "Anonyme"
+
+msgid "An error occured during last action, you have been redirected."
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Prospect"
+msgstr ""
+
+msgid "Customer"
+msgstr "Client"
+
+msgid "Sale"
+msgstr "Vente"
+
+msgid "Week %{w}"
+msgstr ""
+
+msgid "L9"
+msgstr ""
+
+msgid "Legend9"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "and"
+msgstr "et"
+
+msgid "Mr"
+msgstr "M."
+
+msgid "Mrs"
+msgstr "Mme"
+
+msgid "Miss"
+msgstr "Manquant"
+
+msgid "Dr"
+msgstr ""
+
+msgid "Prof"
+msgstr ""
+
+msgid "Canvas"
+msgstr ""
+
+msgid "JavaScript"
+msgstr ""
+
+#, fuzzy
+msgid "Flash"
+msgstr "Fichiers"
+
+msgid "SVG"
+msgstr ""
+
+msgid "HTML  / CSS"
+msgstr ""
+
+msgid "VML"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "IE6"
+msgstr ""
+
+msgid "IE7"
+msgstr ""
+
+msgid "IE8"
+msgstr ""
+
+msgid "IE9"
+msgstr ""
+
+msgid "FireFox"
+msgstr ""
+
+msgid "Safari 4"
+msgstr ""
+
+msgid "Safari 5"
+msgstr ""
+
+msgid "Chrome"
+msgstr ""
+
+msgid "Opera"
+msgstr ""
+
+msgid "JSON"
+msgstr ""
+
+msgid "XML"
+msgstr ""
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "$"
+msgstr ""
+
+msgid "€"
+msgstr ""
+
+msgid "¥"
+msgstr ""
+
+msgid "RMB"
+msgstr ""
+
+msgid "Preparation"
+msgstr "Préparation"
+
+msgid "Confirmation"
+msgstr "Confirmation"
+
+msgid "Paid"
+msgstr ""
+
+msgid "Sent"
+msgstr "Envoyé"
+
+msgid "Delivered"
+msgstr "Livré"
+
+msgid "Inscrit"
+msgstr ""
+
+msgid "Désinscrit"
+msgstr ""
+
+msgid "Demande de doc"
+msgstr ""
+
+msgid "A recontacter"
+msgstr ""
+
+msgid "%{value} is not a valid email address"
+msgstr ""
+
+msgid "Once"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "6 hours"
+msgstr ""
+
+msgid "12 hours"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Every weekday (mon - fri)"
+msgstr ""
+
+msgid "2 days"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Fortnight"
+msgstr ""
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "2 months"
+msgstr "2 mois"
+
+msgid "Quarter"
+msgstr "Quartier"
+
+msgid "6 months"
+msgstr "6 mois"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Scheduled"
+msgstr ""
+
+msgid "Code triggered"
+msgstr ""
+
+msgid "User triggered"
+msgstr ""
+
+#, fuzzy
+msgid "On Start"
+msgstr "Parent : "
+
+msgid "On Stop"
+msgstr ""
+
+#, fuzzy
+msgid "No repetition"
+msgstr "Présentation"
+
+#, fuzzy
+msgid "AND - matching all criteria"
+msgstr "Pas d'entrées correspondant aux critères"
+
+msgid "OR - matching one of the criteria"
+msgstr ""
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Logged in as %{user}"
+msgstr "Connecté en tant que %{user}"
+
+msgid "Not logged"
+msgstr ""
+
+msgid "Default controller action."
+msgstr ""
+
+msgid "Administration Panel"
+msgstr "Panneau d'Administration"
+
+msgid "Logs the user out."
+msgstr ""
+
+msgid "Logout"
+msgstr "Se Déconnecter"
+
+msgid "Log Out"
+msgstr "Se Déconnecter"
+
+msgid "Logs a user in."
+msgstr ""
+
+msgid "Login"
+msgstr "Se Connecter"
+
+msgid "Log In"
+msgstr "Se connecter"
+
+msgid "%{app_name} - %{controller} : %{action}"
+msgstr ""
+
+msgid "Global Search:"
+msgstr "Recherche :"
+
+msgid "Advanced Search"
+msgstr "Recherche Avancée"
+
+msgid "French"
+msgstr "Français"
+
+msgid "English"
+msgstr "Anglais"
+
+msgid "Arabic"
+msgstr ""
+
+msgid "No Result"
+msgstr "Pas de résultat"
+
+msgid "Menu"
+msgstr ""
+
+#, fuzzy
+msgid "Commandes"
+msgstr "Entreprise"
+
+#, fuzzy
+msgid "Clients"
+msgstr "Commentaire"
+
+msgid "Entreprises"
+msgstr ""
+
+msgid "Crm"
+msgstr ""
+
+msgid "Customers"
+msgstr "Clients"
+
+msgid "Books"
+msgstr ""
+
+msgid "Companies"
+msgstr ""
+
+#, fuzzy
+msgid "Sales"
+msgstr "Enregistrer"
+
+#, fuzzy
+msgid "Newsletters"
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "Prospects"
+msgstr "Accès"
+
+msgid "Faveod - Application Connection"
+msgstr ""
+
+msgid "Cookies have to be allowed to sign in."
+msgstr ""
+
+msgid "%{app_name} - Developer Documentation"
+msgstr "%{app_name} - Documentation Développeur"
+
+msgid "Home"
+msgstr ""
+
+#, fuzzy
+msgid "%{app_name} - %{controller}: %{action}"
+msgstr "%{app_name} - Documentation Développeur"
+
+#, fuzzy
+msgid "Global Search..."
+msgstr "Recherche :"
+
+#, fuzzy
+msgid "Main"
+msgstr "parmi"
+
+msgid "Faveod"
+msgstr "Faveod"
+
+msgid "All Rights reserved &copy; Faveod 2010"
+msgstr ""
+
+msgid "Legal Informations"
+msgstr ""
+
+#, fuzzy
+msgid "Contacts"
+msgstr "contient"
+
+msgid "Powered by Faveod"
+msgstr ""
+
+msgid "%{app_name} - %{controller}"
+msgstr ""
+
+msgid "Query"
+msgstr ""
+
+msgid "Search"
+msgstr "Recherche"
+
+msgid "All Rights reserved &copy; Faveod 2007-%{year}"
+msgstr ""
+
+msgid "Importing %{records}"
+msgstr ""
+
+msgid "Processing..."
+msgstr "En cours..."
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Import data from CSV and XLS files in 4 easy steps"
+msgstr ""
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Help for Page %{page}"
+msgstr ""
+
+msgid "This gives the list of all records"
+msgstr ""
+
+msgid "Loads a new record."
+msgstr ""
+
+msgid "Inserts the record in the database."
+msgstr ""
+
+msgid "Display the record."
+msgstr ""
+
+msgid "Load the data to fill the edit form."
+msgstr ""
+
+msgid "Updates the current row in database from the sent form."
+msgstr ""
+
+msgid "Deletes an object or list of objects from the database."
+msgstr ""
+
+msgid "Search and filter data."
+msgstr ""
+
+msgid "Allows download of all or current record in many formats."
+msgstr ""
+
+msgid "Exports RSS, XML and ATOM feeds."
+msgstr ""
+
+msgid "Gives help about current module."
+msgstr ""
+
+msgid "Make complex queries."
+msgstr ""
+
+msgid "%{page} Actions"
+msgstr ""
+
+msgid "Because you are %{profiles} you can do:"
+msgstr ""
+
+msgid "%{page} Fields"
+msgstr "%{page} Champs"
+
+msgid "Created at"
+msgstr "Créé à"
+
+msgid "Updated at"
+msgstr "Mise à jour à"
+
+msgid "Sale Items"
+msgstr ""
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Currency"
+msgstr ""
+
+msgid "Retailer"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Importer currently running..."
+msgstr ""
+
+msgid "Filters"
+msgstr "Filtres"
+
+#, fuzzy
+msgid "Clear"
+msgstr "Recherche"
+
+#, fuzzy
+msgid "Currency: "
+msgstr "Commentaire : "
+
+msgid "Retailer: "
+msgstr ""
+
+msgid "[All]"
+msgstr "[Tous]"
+
+msgid "Status: "
+msgstr ""
+
+msgid "Showing %{record} from %{records}"
+msgstr "Zoom sur %{record} de %{records}"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "Importer: global algorithm, will call required steps."
+msgstr ""
+
+#, fuzzy
+msgid "Importer"
+msgstr "Import de données..."
+
+msgid "Download as"
+msgstr "Télécharger en"
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "HTML"
+msgstr ""
+
+msgid "CSV"
+msgstr ""
+
+msgid "XLS"
+msgstr ""
+
+msgid "PDF"
+msgstr ""
+
+msgid "List"
+msgstr "Liste"
+
+msgid "Print..."
+msgstr "Imprimer..."
+
+msgid "Adv Search"
+msgstr "Recherche Avancée"
+
+msgid "Presentation"
+msgstr "Présentation"
+
+msgid "Presentation Mode"
+msgstr "Mode de Présentation"
+
+msgid "Zoom only"
+msgstr "Zoom Seulement"
+
+msgid "List and Zoom"
+msgstr ""
+
+msgid "Browsing"
+msgstr "Navigation"
+
+msgid "Reporting: displays preset reports."
+msgstr ""
+
+msgid "Report Chooser"
+msgstr "Sélecteur de Rapport"
+
+msgid "Load requested report."
+msgstr ""
+
+#, fuzzy
+msgid "Reporting"
+msgstr "Rapports..."
+
+msgid "Edit current"
+msgstr "Modifier fiche courante"
+
+#, fuzzy
+msgid "Created at: "
+msgstr "Créé à : "
+
+#, fuzzy
+msgid "Updated at: "
+msgstr "Mise à jour à : "
+
+msgid "Company: "
+msgstr "Entreprise : "
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Sale Items:"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Test TGV"
+msgstr ""
+
+msgid "New Static List"
+msgstr ""
+
+#, fuzzy
+msgid "Customer: "
+msgstr "Clients : "
+
+#, fuzzy
+msgid "Price: "
+msgstr "Parent : "
+
+msgid "Test Report"
+msgstr ""
+
+#, fuzzy
+msgid "Report options"
+msgstr "Options de Rapport"
+
+msgid "Extract image"
+msgstr ""
+
+msgid "(to print or save)"
+msgstr ""
+
+msgid "Save report"
+msgstr ""
+
+msgid "(for archive or comparison)"
+msgstr ""
+
+msgid "Choose preset"
+msgstr ""
+
+msgid "Saved Reports"
+msgstr ""
+
+msgid "Data Sets"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Background color"
+msgstr ""
+
+msgid "Results"
+msgstr "Résultats"
+
+msgid "Summary"
+msgstr ""
+
+msgid "Successfully imported %{ok}/%{tot}"
+msgstr ""
+
+msgid "%{n} errors"
+msgstr "%{n} erreurs"
+
+msgid "Error report"
+msgstr ""
+
+msgid "Error CSV"
+msgstr ""
+
+msgid "You can save this text as CSV to fix the invalid records, then retry."
+msgstr ""
+
+msgid "Click 'reupload' to upload this CSV as the latest file"
+msgstr ""
+
+msgid "Editing %{model} %{record}"
+msgstr ""
+
+#, fuzzy
+msgid "Show current"
+msgstr "Modifier fiche courante"
+
+msgid "Saving..."
+msgstr "En cours d'enregistrement..."
+
+msgid "Save"
+msgstr "Enregistrer"
+
+#, fuzzy
+msgid "Reports for Currency"
+msgstr "Sélecteur de Rapport"
+
+msgid "Minimums of Price by Currency"
+msgstr ""
+
+msgid "Average of Price by Currency"
+msgstr ""
+
+msgid "Sum of Price by Currency"
+msgstr ""
+
+msgid "Maximums of Price by Currency"
+msgstr ""
+
+msgid "Count of records by Currency"
+msgstr ""
+
+msgid "Count of Price by Currency and Company"
+msgstr ""
+
+msgid "Sum of Price by Currency and Retailer"
+msgstr ""
+
+msgid "Sum of Price by Currency and Status"
+msgstr ""
+
+msgid "Sum of Price by Currency and Customer"
+msgstr ""
+
+msgid "Count of Price by Currency and Retailer"
+msgstr ""
+
+msgid "Sum of Price by Currency and Company"
+msgstr ""
+
+msgid "Count of Price by Currency and Customer"
+msgstr ""
+
+msgid "Count of Price by Currency and Status"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Status"
+msgstr "Sélecteur de Rapport"
+
+msgid "Maximums of Price by Status"
+msgstr ""
+
+msgid "Average of Price by Status"
+msgstr ""
+
+msgid "Minimums of Price by Status"
+msgstr ""
+
+msgid "Sum of Price by Status"
+msgstr ""
+
+msgid "Count of records by Status"
+msgstr ""
+
+msgid "Sum of Price by Status and Retailer"
+msgstr ""
+
+msgid "Sum of Price by Status and Customer"
+msgstr ""
+
+msgid "Count of Price by Status and Company"
+msgstr ""
+
+msgid "Sum of Price by Status and Currency"
+msgstr ""
+
+msgid "Count of Price by Status and Currency"
+msgstr ""
+
+msgid "Count of Price by Status and Retailer"
+msgstr ""
+
+msgid "Sum of Price by Status and Company"
+msgstr ""
+
+msgid "Count of Price by Status and Customer"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Company"
+msgstr "Sélecteur de Rapport"
+
+msgid "Sum of Price by Company"
+msgstr ""
+
+msgid "Count of records by Company"
+msgstr ""
+
+msgid "Minimums of Price by Company"
+msgstr ""
+
+msgid "Average of Price by Company"
+msgstr ""
+
+msgid "Maximums of Price by Company"
+msgstr ""
+
+msgid "Count of Price by Company and Retailer"
+msgstr ""
+
+msgid "Count of Price by Company and Currency"
+msgstr ""
+
+msgid "Sum of Price by Company and Retailer"
+msgstr ""
+
+msgid "Count of Price by Company and Status"
+msgstr ""
+
+msgid "Sum of Price by Company and Currency"
+msgstr ""
+
+msgid "Sum of Price by Company and Customer"
+msgstr ""
+
+msgid "Count of Price by Company and Customer"
+msgstr ""
+
+msgid "Sum of Price by Company and Status"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Customer"
+msgstr "Sélecteur de Rapport"
+
+msgid "Average of Price by Customer"
+msgstr ""
+
+msgid "Maximums of Price by Customer"
+msgstr ""
+
+msgid "Minimums of Price by Customer"
+msgstr ""
+
+msgid "Count of records by Customer"
+msgstr ""
+
+msgid "Sum of Price by Customer"
+msgstr ""
+
+msgid "Sum of Price by Customer and Retailer"
+msgstr ""
+
+msgid "Sum of Price by Customer and Status"
+msgstr ""
+
+msgid "Count of Price by Customer and Retailer"
+msgstr ""
+
+msgid "Count of Price by Customer and Company"
+msgstr ""
+
+msgid "Count of Price by Customer and Status"
+msgstr ""
+
+msgid "Count of Price by Customer and Currency"
+msgstr ""
+
+msgid "Sum of Price by Customer and Company"
+msgstr ""
+
+msgid "Sum of Price by Customer and Currency"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Retailer"
+msgstr "Sélecteur de Rapport"
+
+msgid "Minimums of Price by Retailer"
+msgstr ""
+
+msgid "Count of records by Retailer"
+msgstr ""
+
+msgid "Average of Price by Retailer"
+msgstr ""
+
+msgid "Sum of Price by Retailer"
+msgstr ""
+
+msgid "Maximums of Price by Retailer"
+msgstr ""
+
+msgid "Count of Price by Retailer and Company"
+msgstr ""
+
+msgid "Sum of Price by Retailer and Currency"
+msgstr ""
+
+msgid "Sum of Price by Retailer and Status"
+msgstr ""
+
+msgid "Sum of Price by Retailer and Customer"
+msgstr ""
+
+msgid "Sum of Price by Retailer and Company"
+msgstr ""
+
+msgid "Count of Price by Retailer and Status"
+msgstr ""
+
+msgid "Count of Price by Retailer and Customer"
+msgstr ""
+
+msgid "Count of Price by Retailer and Currency"
+msgstr ""
+
+msgid "Report Options"
+msgstr "Options de Rapport"
+
+msgid "Data Sets: "
+msgstr ""
+
+msgid "New Data Set"
+msgstr ""
+
+msgid "New Sale"
+msgstr ""
+
+msgid "Creating..."
+msgstr "En Création..."
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Create and New"
+msgstr "Créer et Nouveau"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Listing %{records} (%{count})"
+msgstr "Liste des %{records} (%{count})"
+
+msgid "Sort By"
+msgstr "Trier Par"
+
+msgid "Group By"
+msgstr "Grouper Par"
+
+msgid "Per Page"
+msgstr "Par Page"
+
+msgid "10"
+msgstr ""
+
+msgid "20"
+msgstr ""
+
+msgid "30"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "100"
+msgstr ""
+
+msgid "200"
+msgstr ""
+
+msgid "Previous page"
+msgstr "Page Précédente"
+
+msgid "Next page"
+msgstr "Page Suivante"
+
+#, fuzzy
+msgid "results per page"
+msgstr "Page Précédente"
+
+msgid "Actions"
+msgstr ""
+
+msgid "not set"
+msgstr ""
+
+msgid "Your database currently holds"
+msgstr ""
+
+#, fuzzy
+msgid "%{n} Sales"
+msgstr "%{n} erreurs"
+
+msgid "Data Source"
+msgstr ""
+
+msgid "Choose a file or upload a new one"
+msgstr ""
+
+msgid "at"
+msgstr "à"
+
+msgid "on"
+msgstr ""
+
+msgid "Are you sure that you want to remove this file?"
+msgstr ""
+
+msgid "File Encoding"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Importer options"
+msgstr ""
+
+msgid "Data source"
+msgstr ""
+
+msgid "CSV separator"
+msgstr ""
+
+msgid "don't cancel import if an error is found"
+msgstr ""
+
+msgid "don't skip first line"
+msgstr ""
+
+msgid "Filter the data from your file"
+msgstr ""
+
+#, fuzzy
+msgid "Import"
+msgstr "Import de données..."
+
+#, fuzzy
+msgid "Preview"
+msgstr "Précédent"
+
+msgid "Start at"
+msgstr ""
+
+msgid "Searching %{page}"
+msgstr ""
+
+msgid "Sale Items: "
+msgstr ""
+
+msgid "No entry match criteria"
+msgstr "Pas d'entrées correspondant aux critères"
+
+msgid "%{count} Results:"
+msgstr "%{count} Résultats :"
+
+msgid "Download as CSV"
+msgstr "Télécharger en CSV"
+
+msgid "Download as Excel"
+msgstr "Télécharger en Excel"
+
+msgid "Download as XML"
+msgstr "Télécharger en XML"
+
+msgid "Previous Page"
+msgstr "Page Précédente"
+
+msgid "Go Left"
+msgstr ""
+
+msgid "Next Page"
+msgstr "Page Suivante"
+
+msgid "Go Right"
+msgstr ""
+
+msgid "Create Only"
+msgstr ""
+
+msgid "Update Only"
+msgstr ""
+
+msgid "Match the columns in your files to the column in your database."
+msgstr ""
+
+msgid "If you choose to update records, tick the 'Find Key' box under the columns used to find the appropriate record based on these values."
+msgstr ""
+
+msgid "The other columns will override existing values in the other fields from the matching records."
+msgstr ""
+
+#, fuzzy
+msgid "Match"
+msgstr "Mois"
+
+msgid "Find Key"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Profiles"
+msgstr ""
+
+msgid "Name: "
+msgstr "Nom : "
+
+msgid "Users: "
+msgstr "Utilisateurs : "
+
+msgid "Home Page: "
+msgstr ""
+
+#, fuzzy
+msgid "Access Graph"
+msgstr "Accès"
+
+msgid "Access Graph for Profile %{record}"
+msgstr ""
+
+msgid "Manage all accesses permissions, by profile and user."
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "New Profile"
+msgstr ""
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Users"
+msgstr "Utilisateurs"
+
+msgid "Home Page"
+msgstr "Page d'Accueil"
+
+msgid "Accesses"
+msgstr "Accès"
+
+msgid "Profile Accesses"
+msgstr ""
+
+msgid "%{n} Profiles"
+msgstr ""
+
+msgid "Field Access Graph"
+msgstr ""
+
+msgid "Field Access Graph for Profile %{record}"
+msgstr ""
+
+#, fuzzy
+msgid "Nom"
+msgstr "Nouveau"
+
+#, fuzzy
+msgid "Nom: "
+msgstr "Nom : "
+
+#, fuzzy
+msgid "Commandes: "
+msgstr "Entreprise"
+
+#, fuzzy
+msgid "New Client"
+msgstr "Nouveau texte"
+
+msgid "This will test the uncatched exception module."
+msgstr ""
+
+msgid "Exception Class"
+msgstr ""
+
+#, fuzzy
+msgid "Controller Name"
+msgstr "Prénom"
+
+#, fuzzy
+msgid "Action Name"
+msgstr "Nom"
+
+msgid "Message"
+msgstr ""
+
+#, fuzzy
+msgid "Backtrace"
+msgstr "Retour"
+
+msgid "Environment"
+msgstr ""
+
+msgid "Request"
+msgstr ""
+
+msgid "Created At"
+msgstr "Créé à"
+
+#, fuzzy
+msgid "Uncatched Exceptions"
+msgstr "Options de Rapport"
+
+#, fuzzy
+msgid "Exception Class: "
+msgstr "Options : "
+
+msgid "Controller Name: "
+msgstr ""
+
+#, fuzzy
+msgid "Action Name: "
+msgstr "Nom : "
+
+msgid "Message: "
+msgstr ""
+
+msgid "Backtrace: "
+msgstr ""
+
+msgid "Environment: "
+msgstr ""
+
+#, fuzzy
+msgid "Request: "
+msgstr "Temps des Requêtes"
+
+msgid "Created At: "
+msgstr "Créé à : "
+
+msgid "Login: "
+msgstr "Login : "
+
+msgid "First Name: "
+msgstr "Prénom : "
+
+msgid "Last Name: "
+msgstr "Nom : "
+
+msgid "Email: "
+msgstr "Email : "
+
+msgid "Language: "
+msgstr ""
+
+msgid "Active: "
+msgstr "Actif : "
+
+msgid "Access Management"
+msgstr "Gestion des Accès"
+
+msgid "Profiles: "
+msgstr "Profils : "
+
+msgid "Sales: "
+msgstr "Ventes : "
+
+msgid "%{app} - Connection"
+msgstr ""
+
+msgid "Sign into your application"
+msgstr "Connectez-vous à votre application"
+
+msgid "Login:"
+msgstr "Login :"
+
+msgid "Password:"
+msgstr "Mot de passe :"
+
+msgid "Sign in"
+msgstr "Se connecter"
+
+msgid "Access Graph for User %{record}"
+msgstr ""
+
+msgid "Change Password"
+msgstr "Changer de mot de passe"
+
+msgid "Password Confirmation:"
+msgstr ""
+
+msgid "New User"
+msgstr "Nouvel Utilisateur"
+
+msgid "First Name"
+msgstr "Prénom"
+
+msgid "Last Name"
+msgstr "Nom"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Language"
+msgstr ""
+
+msgid "Active"
+msgstr "Actif"
+
+#, fuzzy
+msgid "Hashed Password"
+msgstr "Mot de passe :"
+
+#, fuzzy
+msgid "Salt"
+msgstr "à"
+
+#, fuzzy
+msgid "Last Login"
+msgstr "Se Connecter"
+
+msgid "Last Session Id"
+msgstr ""
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "User Accesses"
+msgstr ""
+
+msgid "%{n} Users"
+msgstr ""
+
+msgid "Field Access Graph for User %{record}"
+msgstr ""
+
+msgid "SaleItems"
+msgstr ""
+
+#, fuzzy
+msgid "Sale: "
+msgstr "Valeur : "
+
+msgid "Book: "
+msgstr "Livre : "
+
+msgid "Quantity: "
+msgstr ""
+
+msgid "New Static List: "
+msgstr ""
+
+msgid "Test TGV: "
+msgstr ""
+
+#, fuzzy
+msgid "Reports for New Static List"
+msgstr "Sélecteur de Rapport"
+
+msgid "Average of Quantity by New Static List"
+msgstr ""
+
+msgid "Maximums of Quantity by New Static List"
+msgstr ""
+
+msgid "Minimums of Price by New Static List"
+msgstr ""
+
+msgid "Maximums of Price by New Static List"
+msgstr ""
+
+msgid "Minimums of Quantity by New Static List"
+msgstr ""
+
+msgid "Average of Price by New Static List"
+msgstr ""
+
+msgid "Sum of Price by New Static List"
+msgstr ""
+
+msgid "Count of records by New Static List"
+msgstr ""
+
+msgid "Sum of Quantity by New Static List"
+msgstr ""
+
+msgid "Sum of Price by New Static List and Book"
+msgstr ""
+
+msgid "Sum of Quantity by New Static List and Sale"
+msgstr ""
+
+msgid "Sum of Quantity by New Static List and Book"
+msgstr ""
+
+msgid "Count of Quantity by New Static List and Sale"
+msgstr ""
+
+msgid "Count of Price by New Static List and Sale"
+msgstr ""
+
+msgid "Count of Quantity by New Static List and Book"
+msgstr ""
+
+msgid "Count of Price by New Static List and Book"
+msgstr ""
+
+msgid "Sum of Price by New Static List and Sale"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Sale"
+msgstr "Sélecteur de Rapport"
+
+msgid "Maximums of Price by Sale"
+msgstr ""
+
+msgid "Maximums of Quantity by Sale"
+msgstr ""
+
+msgid "Minimums of Price by Sale"
+msgstr ""
+
+msgid "Sum of Price by Sale"
+msgstr ""
+
+msgid "Average of Quantity by Sale"
+msgstr ""
+
+msgid "Sum of Quantity by Sale"
+msgstr ""
+
+msgid "Count of records by Sale"
+msgstr ""
+
+msgid "Minimums of Quantity by Sale"
+msgstr ""
+
+msgid "Average of Price by Sale"
+msgstr ""
+
+msgid "Sum of Price by Sale and Book"
+msgstr ""
+
+msgid "Sum of Quantity by Sale and New Static List"
+msgstr ""
+
+msgid "Sum of Price by Sale and New Static List"
+msgstr ""
+
+msgid "Sum of Quantity by Sale and Book"
+msgstr ""
+
+msgid "Count of Quantity by Sale and New Static List"
+msgstr ""
+
+msgid "Count of Quantity by Sale and Book"
+msgstr ""
+
+msgid "Count of Price by Sale and Book"
+msgstr ""
+
+msgid "Count of Price by Sale and New Static List"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Book"
+msgstr "Sélecteur de Rapport"
+
+msgid "Minimums of Quantity by Book"
+msgstr ""
+
+msgid "Average of Price by Book"
+msgstr ""
+
+msgid "Maximums of Price by Book"
+msgstr ""
+
+msgid "Minimums of Price by Book"
+msgstr ""
+
+msgid "Sum of Quantity by Book"
+msgstr ""
+
+msgid "Sum of Price by Book"
+msgstr ""
+
+msgid "Maximums of Quantity by Book"
+msgstr ""
+
+msgid "Average of Quantity by Book"
+msgstr ""
+
+msgid "Count of records by Book"
+msgstr ""
+
+msgid "Sum of Price by Book and Sale"
+msgstr ""
+
+msgid "Count of Price by Book and New Static List"
+msgstr ""
+
+msgid "Sum of Quantity by Book and Sale"
+msgstr ""
+
+msgid "Sum of Quantity by Book and New Static List"
+msgstr ""
+
+msgid "Sum of Price by Book and New Static List"
+msgstr ""
+
+msgid "Count of Price by Book and Sale"
+msgstr ""
+
+msgid "Count of Quantity by Book and New Static List"
+msgstr ""
+
+msgid "Count of Quantity by Book and Sale"
+msgstr ""
+
+msgid "New Sale Item"
+msgstr ""
+
+msgid "WARNING: CREATES AN ERROR.\nLink and test this action if you want to test error recovering."
+msgstr ""
+
+msgid "Rights management: JSON data for access graph."
+msgstr ""
+
+#, fuzzy
+msgid "Email Address"
+msgstr "Email : "
+
+msgid "Enabled"
+msgstr ""
+
+#, fuzzy
+msgid "Phones"
+msgstr "Aucun"
+
+#, fuzzy
+msgid "Mobile"
+msgstr "Fichier"
+
+msgid "Office"
+msgstr ""
+
+msgid "Assigned To"
+msgstr ""
+
+msgid "Event"
+msgstr ""
+
+msgid "Feedback"
+msgstr ""
+
+msgid "Souhaite se désabonner"
+msgstr ""
+
+#, fuzzy
+msgid "Comments"
+msgstr "Commentaire"
+
+#, fuzzy
+msgid "Email Address: "
+msgstr "Email : "
+
+#, fuzzy
+msgid "Account: "
+msgstr "Compte"
+
+msgid "Title: "
+msgstr ""
+
+#, fuzzy
+msgid "Enabled: "
+msgstr "Valeur : "
+
+#, fuzzy
+msgid "Mobile: "
+msgstr "Profils : "
+
+#, fuzzy
+msgid "Office: "
+msgstr "Parent : "
+
+msgid "Assigned To: "
+msgstr ""
+
+msgid "Feedback: "
+msgstr ""
+
+msgid "Souhaite se désabonner: "
+msgstr ""
+
+#, fuzzy
+msgid "Comments: "
+msgstr "Commentaire"
+
+#, fuzzy
+msgid "Reports for Feedback"
+msgstr "Sélecteur de Rapport"
+
+msgid "Count of records by Feedback"
+msgstr ""
+
+#, fuzzy
+msgid "New Prospect"
+msgstr "Suivant"
+
+#, fuzzy
+msgid "Par entreprise"
+msgstr "Parent : "
+
+#, fuzzy
+msgid "%{n} Prospects"
+msgstr "%{n} Clients"
+
+msgid "Version"
+msgstr ""
+
+#, fuzzy
+msgid "Latest Update"
+msgstr "Nom"
+
+#, fuzzy
+msgid "Web Site"
+msgstr "Par Page"
+
+#, fuzzy
+msgid "Examples"
+msgstr "Enregistrer"
+
+msgid "Based On"
+msgstr ""
+
+#, fuzzy
+msgid "Licence"
+msgstr "Se Connecter"
+
+msgid "Always Free"
+msgstr ""
+
+#, fuzzy
+msgid "Compatibility"
+msgstr "Entreprise"
+
+#, fuzzy
+msgid "Browsers"
+msgstr "Navigation"
+
+msgid "Data Formats"
+msgstr ""
+
+msgid "Features"
+msgstr ""
+
+#, fuzzy
+msgid "Pies"
+msgstr "est"
+
+msgid "Bars"
+msgstr ""
+
+msgid "Stacked Bars"
+msgstr ""
+
+#, fuzzy
+msgid "Lines"
+msgstr "Liste"
+
+msgid "Areas"
+msgstr ""
+
+#, fuzzy
+msgid "Scatters"
+msgstr "Enregistrer"
+
+msgid "Radars"
+msgstr ""
+
+msgid "Gantt"
+msgstr ""
+
+#, fuzzy
+msgid "Note"
+msgstr "Aucun"
+
+msgid "Chart Frameworks"
+msgstr ""
+
+msgid "Based On: "
+msgstr ""
+
+msgid "Always Free: "
+msgstr ""
+
+#, fuzzy
+msgid "Browsers: "
+msgstr "Utilisateurs : "
+
+msgid "Data Formats: "
+msgstr ""
+
+#, fuzzy
+msgid "Pies: "
+msgstr "Parent : "
+
+#, fuzzy
+msgid "Bars: "
+msgstr "Utilisateurs : "
+
+msgid "Stacked Bars: "
+msgstr ""
+
+#, fuzzy
+msgid "Lines: "
+msgstr "Liste"
+
+#, fuzzy
+msgid "Areas: "
+msgstr "Utilisateurs : "
+
+#, fuzzy
+msgid "Scatters: "
+msgstr "Ventes : "
+
+msgid "Radars: "
+msgstr ""
+
+#, fuzzy
+msgid "Gantt: "
+msgstr "Parent : "
+
+msgid "Version: "
+msgstr "Version : "
+
+#, fuzzy
+msgid "Latest Update: "
+msgstr "Nom : "
+
+msgid "Web Site: "
+msgstr ""
+
+#, fuzzy
+msgid "Examples: "
+msgstr "Ventes : "
+
+#, fuzzy
+msgid "Licence: "
+msgstr "Parent : "
+
+#, fuzzy
+msgid "Note: "
+msgstr "Nom : "
+
+msgid "New Chart Framework"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Read: "
+msgstr ""
+
+msgid "Write: "
+msgstr ""
+
+msgid "Data Base Maintenance Operations"
+msgstr ""
+
+msgid "Table infos"
+msgstr ""
+
+msgid "Purge All With Triggers"
+msgstr ""
+
+msgid "Are you sure?"
+msgstr ""
+
+msgid "Purge All Without Triggers"
+msgstr ""
+
+msgid "Generate Random data (1)"
+msgstr ""
+
+msgid "Generate Random data (10)"
+msgstr ""
+
+msgid "Generate Random data (100)"
+msgstr ""
+
+msgid "Generate Random data (1000)"
+msgstr ""
+
+msgid "Check Foreign Keys"
+msgstr ""
+
+msgid "Check Validations"
+msgstr ""
+
+msgid "Optimize"
+msgstr ""
+
+msgid "%{n} User Accesses"
+msgstr ""
+
+msgid "No record"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Turnover"
+msgstr ""
+
+msgid "Retailers"
+msgstr ""
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Versions"
+msgstr ""
+
+msgid "Website: "
+msgstr ""
+
+msgid "Turnover: "
+msgstr ""
+
+msgid "Previous Versions"
+msgstr "Versions Précédentes"
+
+msgid "Customers: "
+msgstr "Clients : "
+
+msgid "Retailers: "
+msgstr ""
+
+#, fuzzy
+msgid "Position: "
+msgstr "Position"
+
+msgid "New Company"
+msgstr "Nouvelle Entreprise"
+
+msgid "Move Higher"
+msgstr ""
+
+msgid "Move Lower"
+msgstr ""
+
+#, fuzzy
+msgid "%{n} Companies"
+msgstr "%{n} Clients"
+
+#, fuzzy
+msgid "Parent"
+msgstr "Parent : "
+
+#, fuzzy
+msgid "Tree List"
+msgstr "Liste"
+
+#, fuzzy
+msgid "Catch"
+msgstr "Mois"
+
+msgid "Catchphrases"
+msgstr ""
+
+#, fuzzy
+msgid "Catch: "
+msgstr "Mois"
+
+msgid "New Catchphrase"
+msgstr ""
+
+msgid "Many maintenance and technical tasks."
+msgstr ""
+
+msgid "Numéro"
+msgstr "Numéro"
+
+#, fuzzy
+msgid "Date"
+msgstr "à"
+
+#, fuzzy
+msgid "Commentaires"
+msgstr "Commentaire"
+
+#, fuzzy
+msgid "Montant"
+msgstr "contient"
+
+msgid "Numéro: "
+msgstr "Numéro : "
+
+#, fuzzy
+msgid "Date: "
+msgstr "Utilisateurs : "
+
+#, fuzzy
+msgid "Commentaires: "
+msgstr "Commentaire"
+
+#, fuzzy
+msgid "Montant: "
+msgstr "Parent : "
+
+#, fuzzy
+msgid "Client: "
+msgstr "Commentaire"
+
+msgid "Db Table"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Date"
+msgstr "Sélecteur de Rapport"
+
+msgid "Maximums of Montant by month"
+msgstr ""
+
+msgid "Average of Montant by week"
+msgstr ""
+
+msgid "Maximums of Montant by week"
+msgstr ""
+
+msgid "Minimums of Montant by week"
+msgstr ""
+
+msgid "Count of records by Date"
+msgstr ""
+
+msgid "Sum of Montant by month"
+msgstr ""
+
+msgid "Minimums of Montant by month"
+msgstr ""
+
+msgid "Average of Montant by month"
+msgstr ""
+
+msgid "Sum of Montant by week"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Client"
+msgstr "Sélecteur de Rapport"
+
+msgid "Average of Montant by Client"
+msgstr ""
+
+msgid "Maximums of Montant by Client"
+msgstr ""
+
+msgid "Minimums of Montant by Client"
+msgstr ""
+
+msgid "Sum of Montant by Client"
+msgstr ""
+
+msgid "Count of records by Client"
+msgstr ""
+
+msgid "Sum of Montant by Client and Numéro"
+msgstr ""
+
+msgid "Count of Montant by Client and Numéro"
+msgstr ""
+
+#, fuzzy
+msgid "New Commande"
+msgstr "Nouvelle Entreprise"
+
+#, fuzzy
+msgid "%{n} Commandes"
+msgstr "%{n} Clients"
+
+#, fuzzy
+msgid "Author"
+msgstr "Auteurs"
+
+msgid "Full"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Testimonials"
+msgstr ""
+
+msgid "List elements with pictures or videos."
+msgstr ""
+
+msgid "Gallery"
+msgstr "Gallerie"
+
+#, fuzzy
+msgid "Author: "
+msgstr "Auteurs"
+
+msgid "Full: "
+msgstr ""
+
+#, fuzzy
+msgid "Image: "
+msgstr "Nom : "
+
+#, fuzzy
+msgid "New Testimonial"
+msgstr "Nouveau texte"
+
+#, fuzzy
+msgid "Dear %{customer}"
+msgstr "Nouveau Client"
+
+msgid "Thanks for purchasing"
+msgstr ""
+
+msgid "Faithfully"
+msgstr ""
+
+#, fuzzy
+msgid "Gallery of %{records} (%{count})"
+msgstr "Liste des %{records} (%{count})"
+
+msgid "List records with pictures and videos and allows for a different presentation in Field Views."
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "ISBN"
+msgstr ""
+
+msgid "Basic Info"
+msgstr ""
+
+msgid "Sales Info"
+msgstr ""
+
+msgid "More Info"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Back Office"
+msgstr ""
+
+msgid "Version %{version}"
+msgstr ""
+
+#, fuzzy
+msgid "Year: "
+msgstr "Utilisateurs : "
+
+msgid "ISBN: "
+msgstr ""
+
+#, fuzzy
+msgid "Description: "
+msgstr "Position : "
+
+#, fuzzy
+msgid "Editing %{record} from %{records}"
+msgstr "Zoom sur %{record} de %{records}"
+
+msgid "Picture: "
+msgstr ""
+
+msgid "Rebuild FTS Index"
+msgstr ""
+
+msgid "New Book"
+msgstr ""
+
+#, fuzzy
+msgid "%{n} Books"
+msgstr "%{n} erreurs"
+
+msgid "Available Fields for FTS: "
+msgstr ""
+
+msgid "Query: "
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Administrator Panel"
+msgstr "Panneau d'administration"
+
+msgid "Ressources"
+msgstr ""
+
+msgid "Administration: displays public files in ExtJS Tree Manager."
+msgstr ""
+
+msgid "Public Files"
+msgstr "Fichiers publics"
+
+msgid "Translations: main screen (listing PO files and translations)."
+msgstr ""
+
+msgid "Localizations"
+msgstr ""
+
+#, fuzzy
+msgid "Reading development documentation."
+msgstr "Documentation Développeur"
+
+msgid "Dev Doc"
+msgstr ""
+
+msgid "Maintenance Documentation"
+msgstr ""
+
+msgid "Data Management"
+msgstr "Gestion des Données"
+
+msgid "Importers: "
+msgstr ""
+
+msgid "Exporters: "
+msgstr ""
+
+msgid "Maintenance: "
+msgstr ""
+
+msgid "Smart Queries"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Gives some information about current running application."
+msgstr ""
+
+msgid "Informations"
+msgstr ""
+
+msgid "Administration: request times' dashboard."
+msgstr ""
+
+msgid "Requests Times"
+msgstr "Temps des Requêtes"
+
+msgid "Administration: logs from the last requests."
+msgstr ""
+
+msgid "List Logs"
+msgstr ""
+
+msgid "Watch logs"
+msgstr "Consulter les logs"
+
+#, fuzzy
+msgid "Administration: listing routes."
+msgstr "Panneau d'Administration"
+
+msgid "Routes"
+msgstr ""
+
+msgid "Routing Rules"
+msgstr "Règles de Routage"
+
+msgid "Standard Settings"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Background Processes"
+msgstr ""
+
+msgid "Specific Settings"
+msgstr ""
+
+msgid "System Settings"
+msgstr ""
+
+msgid "Available Routes"
+msgstr ""
+
+#, fuzzy
+msgid "Route Name"
+msgstr "Prénom"
+
+msgid "Verb"
+msgstr ""
+
+msgid "Segments"
+msgstr ""
+
+msgid "Requirements"
+msgstr ""
+
+msgid "Solution properties:"
+msgstr ""
+
+msgid "Name: %{sid}"
+msgstr ""
+
+msgid "Version: %{vers}"
+msgstr ""
+
+msgid "Available languages: %{lg}, current: %{cur}"
+msgstr ""
+
+msgid "Number of pages: %{count}"
+msgstr ""
+
+msgid "Number of fields: %{count}"
+msgstr ""
+
+msgid "Number of actions: %{count}"
+msgstr ""
+
+msgid "Application Server properties"
+msgstr ""
+
+msgid "Reload or restart Application"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Reload Application"
+msgstr ""
+
+msgid "Reload Only Routes"
+msgstr ""
+
+msgid "Restart Application"
+msgstr ""
+
+msgid "Force Production"
+msgstr ""
+
+msgid "Force Development"
+msgstr ""
+
+msgid "Platform: %{name}"
+msgstr ""
+
+msgid "Interpreter: %{name}"
+msgstr ""
+
+msgid "Environment: %{name}"
+msgstr ""
+
+msgid "Database Server properties"
+msgstr ""
+
+msgid "Main database: %{name}"
+msgstr ""
+
+msgid "Loaded Gems"
+msgstr ""
+
+#, fuzzy
+msgid "Gem Name"
+msgstr "Nom"
+
+msgid "Authors"
+msgstr "Auteurs"
+
+msgid "Dependencies"
+msgstr "Dépendances"
+
+msgid "Value: "
+msgstr "Valeur : "
+
+msgid "Developer Documentation"
+msgstr "Documentation Développeur"
+
+msgid "Last Update: %{date}"
+msgstr ""
+
+#, fuzzy
+msgid "Automatically creating developer documentation."
+msgstr "Documentation Développeur"
+
+msgid "Gen Doc"
+msgstr ""
+
+#, fuzzy
+msgid "Regenerate Documentation"
+msgstr "Documentation Développeur"
+
+msgid "No documentation"
+msgstr "Pas de Documentation"
+
+#, fuzzy
+msgid "Generate Documentation"
+msgstr "Documentation Développeur"
+
+msgid "New System Setting"
+msgstr ""
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "%{n} System Settings"
+msgstr ""
+
+msgid "%{top} Most Recent Requests from the %{lines} last lines"
+msgstr ""
+
+msgid "The size of %{file} log file is: %{size}"
+msgstr ""
+
+msgid "Clear Logs"
+msgstr ""
+
+msgid "Top: "
+msgstr ""
+
+msgid "Mode: "
+msgstr ""
+
+msgid "Show SQL: "
+msgstr ""
+
+msgid "Lines:"
+msgstr ""
+
+msgid "Top:"
+msgstr ""
+
+msgid "Mode:"
+msgstr ""
+
+msgid "Total Time"
+msgstr ""
+
+msgid "Render Time"
+msgstr ""
+
+msgid "DB Time"
+msgstr ""
+
+msgid "Public Files Manager"
+msgstr ""
+
+msgid "These files are public, so they can be accessed by any user."
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "File already exists"
+msgstr ""
+
+msgid "Loading..."
+msgstr "En cours de chargement..."
+
+msgid "New Directory..."
+msgstr ""
+
+msgid "Overwrite?"
+msgstr ""
+
+msgid "Do you really want to"
+msgstr ""
+
+#, fuzzy
+msgid "File tree"
+msgstr "Fichier"
+
+msgid "Files"
+msgstr "Fichiers"
+
+msgid "Welcome to %{app}, %{firstname} %{lastname}!"
+msgstr ""
+
+msgid "You can now use your %{app} Member login %{login} and password %{pass} to login at %{url}."
+msgstr ""
+
+msgid "Faveod Support Team"
+msgstr ""
+
+msgid "You can now use your %{app} Member login <strong>%{login}</strong> and password <strong>%{pass}</strong> to login at %{url}."
+msgstr ""
+
+#, fuzzy
+msgid "Listing Locales Files (%{count})"
+msgstr "Liste des %{records} (%{count})"
+
+msgid "Auto Translate %{lg}"
+msgstr ""
+
+msgid "Locale"
+msgstr ""
+
+msgid "Po File"
+msgstr ""
+
+msgid "Updated At"
+msgstr "Mise à jour à"
+
+msgid "New PO File"
+msgstr ""
+
+msgid "Current localizations files"
+msgstr ""
+
+msgid "You can download POEdit here: "
+msgstr ""
+
+msgid "Update localizations files"
+msgstr ""
+
+msgid "This could be very long... (5 to 20 minutes)"
+msgstr ""
+
+msgid "App Locales"
+msgstr ""
+
+msgid "Translations: updating translations.\n* single or batch editing\n* manual or automatically-retrieved content\n"
+msgstr ""
+
+msgid "Locale: "
+msgstr ""
+
+msgid "Updated At: "
+msgstr "Mise à jour à : "
+
+msgid "Destroy"
+msgstr "Supprimer"
+
+msgid "Modify"
+msgstr ""
+
+msgid "Make PDF"
+msgstr ""
+
+msgid "Make pdf"
+msgstr ""
+
+msgid "string|="
+msgstr "est"
+
+msgid "string|!="
+msgstr "n'est pas"
+
+msgid "string|^="
+msgstr "commence par"
+
+msgid "string|$="
+msgstr "se termine par"
+
+msgid "string|=~"
+msgstr "contient"
+
+msgid "string|!~"
+msgstr "ne contient pas"
+
+msgid "string|>"
+msgstr ""
+
+msgid "string|<"
+msgstr ""
+
+msgid "string|>="
+msgstr ""
+
+msgid "string|<="
+msgstr ""
+
+msgid "string|IN"
+msgstr "parmi"
+
+msgid "string|FTS"
+msgstr "Recherche Full Text"
+
+msgid "string|NULL"
+msgstr "n'est pas défini"
+
+msgid "string|NOT_NULL"
+msgstr "est défini"
+
+msgid "string|NOT_IN"
+msgstr "pas parmi"
+
+msgid "text|="
+msgstr "est"
+
+msgid "text|!="
+msgstr "n'est pas"
+
+msgid "text|^="
+msgstr "commence par"
+
+msgid "text|$="
+msgstr "se termine par"
+
+msgid "text|=~"
+msgstr "contient"
+
+msgid "text|!~"
+msgstr "ne contient pas"
+
+#, fuzzy
+msgid "text|>"
+msgstr "Suivant"
+
+#, fuzzy
+msgid "text|<"
+msgstr "Suivant"
+
+msgid "text|>="
+msgstr ""
+
+msgid "text|<="
+msgstr ""
+
+msgid "text|IN"
+msgstr ""
+
+msgid "text|FTS"
+msgstr ""
+
+msgid "text|NULL"
+msgstr "non défini"
+
+msgid "text|NOT_NULL"
+msgstr "défini"
+
+#, fuzzy
+msgid "text|NOT_IN"
+msgstr "non défini"
+
+msgid "integer|="
+msgstr ""
+
+msgid "integer|!="
+msgstr "≠"
+
+msgid "integer|^="
+msgstr ""
+
+msgid "integer|$="
+msgstr ""
+
+msgid "integer|=~"
+msgstr ""
+
+msgid "integer|!~"
+msgstr ""
+
+msgid "integer|>"
+msgstr ""
+
+msgid "integer|<"
+msgstr ""
+
+msgid "integer|>="
+msgstr "≥"
+
+msgid "integer|<="
+msgstr "≤"
+
+msgid "integer|IN"
+msgstr "parmi"
+
+msgid "integer|FTS"
+msgstr ""
+
+msgid "integer|NULL"
+msgstr "non défini"
+
+msgid "integer|NOT_NULL"
+msgstr "défini"
+
+#, fuzzy
+msgid "integer|NOT_IN"
+msgstr "parmi"
+
+msgid "float|="
+msgstr ""
+
+msgid "float|!="
+msgstr "≠"
+
+msgid "float|^="
+msgstr ""
+
+msgid "float|$="
+msgstr ""
+
+msgid "float|=~"
+msgstr ""
+
+msgid "float|!~"
+msgstr ""
+
+msgid "float|>"
+msgstr ""
+
+msgid "float|<"
+msgstr ""
+
+msgid "float|>="
+msgstr ""
+
+msgid "float|<="
+msgstr ""
+
+msgid "float|IN"
+msgstr ""
+
+msgid "float|FTS"
+msgstr ""
+
+msgid "float|NULL"
+msgstr ""
+
+#, fuzzy
+msgid "float|NOT_NULL"
+msgstr "contient"
+
+#, fuzzy
+msgid "float|NOT_IN"
+msgstr "≠"
+
+msgid "decimal|="
+msgstr ""
+
+msgid "decimal|!="
+msgstr ""
+
+msgid "decimal|^="
+msgstr ""
+
+msgid "decimal|$="
+msgstr ""
+
+msgid "decimal|=~"
+msgstr ""
+
+msgid "decimal|!~"
+msgstr ""
+
+msgid "decimal|>"
+msgstr ""
+
+msgid "decimal|<"
+msgstr ""
+
+msgid "decimal|>="
+msgstr ""
+
+msgid "decimal|<="
+msgstr ""
+
+msgid "decimal|IN"
+msgstr ""
+
+msgid "decimal|FTS"
+msgstr ""
+
+msgid "decimal|NULL"
+msgstr ""
+
+msgid "decimal|NOT_NULL"
+msgstr ""
+
+msgid "decimal|NOT_IN"
+msgstr ""
+
+msgid "boolean|="
+msgstr "est"
+
+msgid "boolean|!="
+msgstr "n'est pas"
+
+msgid "boolean|^="
+msgstr ""
+
+msgid "boolean|$="
+msgstr ""
+
+msgid "boolean|=~"
+msgstr ""
+
+msgid "boolean|!~"
+msgstr ""
+
+msgid "boolean|>"
+msgstr ""
+
+msgid "boolean|<"
+msgstr ""
+
+msgid "boolean|>="
+msgstr ""
+
+msgid "boolean|<="
+msgstr ""
+
+msgid "boolean|IN"
+msgstr ""
+
+msgid "boolean|FTS"
+msgstr ""
+
+msgid "boolean|NULL"
+msgstr ""
+
+#, fuzzy
+msgid "boolean|NOT_NULL"
+msgstr "contient"
+
+#, fuzzy
+msgid "boolean|NOT_IN"
+msgstr "est"
+
+msgid "date|="
+msgstr "est"
+
+msgid "date|!="
+msgstr "n'est pas"
+
+msgid "date|^="
+msgstr ""
+
+msgid "date|$="
+msgstr ""
+
+msgid "date|=~"
+msgstr ""
+
+msgid "date|!~"
+msgstr ""
+
+msgid "date|>"
+msgstr "est après"
+
+msgid "date|<"
+msgstr "est avant"
+
+msgid "date|>="
+msgstr ""
+
+msgid "date|<="
+msgstr ""
+
+msgid "date|IN"
+msgstr ""
+
+msgid "date|FTS"
+msgstr ""
+
+msgid "date|NULL"
+msgstr ""
+
+msgid "date|NOT_NULL"
+msgstr "est défini"
+
+msgid "date|NOT_IN"
+msgstr ""
+
+msgid "datetime|="
+msgstr "est"
+
+msgid "datetime|!="
+msgstr "n'est pas"
+
+msgid "datetime|^="
+msgstr ""
+
+msgid "datetime|$="
+msgstr ""
+
+msgid "datetime|=~"
+msgstr ""
+
+msgid "datetime|!~"
+msgstr ""
+
+msgid "datetime|>"
+msgstr "est srictement après"
+
+msgid "datetime|<"
+msgstr "est strictement avant"
+
+msgid "datetime|>="
+msgstr "est après"
+
+msgid "datetime|<="
+msgstr "est avant"
+
+msgid "datetime|IN"
+msgstr ""
+
+msgid "datetime|FTS"
+msgstr ""
+
+msgid "datetime|NULL"
+msgstr "non défini"
+
+msgid "datetime|NOT_NULL"
+msgstr "défini"
+
+msgid "datetime|NOT_IN"
+msgstr ""
+
+msgid "time|="
+msgstr ""
+
+msgid "time|!="
+msgstr ""
+
+msgid "time|^="
+msgstr ""
+
+msgid "time|$="
+msgstr ""
+
+msgid "time|=~"
+msgstr ""
+
+msgid "time|!~"
+msgstr ""
+
+msgid "time|>"
+msgstr ""
+
+msgid "time|<"
+msgstr ""
+
+msgid "time|>="
+msgstr ""
+
+msgid "time|<="
+msgstr ""
+
+msgid "time|IN"
+msgstr ""
+
+msgid "time|FTS"
+msgstr ""
+
+msgid "time|NULL"
+msgstr ""
+
+msgid "time|NOT_NULL"
+msgstr "est défini"
+
+msgid "time|NOT_IN"
+msgstr ""
+
+msgid "binary|="
+msgstr "est"
+
+msgid "binary|!="
+msgstr "n'est pas"
+
+msgid "binary|^="
+msgstr "commence par"
+
+msgid "binary|$="
+msgstr "se termine par"
+
+msgid "binary|=~"
+msgstr ""
+
+msgid "binary|!~"
+msgstr ""
+
+msgid "binary|>"
+msgstr ""
+
+msgid "binary|<"
+msgstr ""
+
+msgid "binary|>="
+msgstr ""
+
+msgid "binary|<="
+msgstr ""
+
+msgid "binary|IN"
+msgstr ""
+
+msgid "binary|FTS"
+msgstr ""
+
+msgid "binary|NULL"
+msgstr ""
+
+#, fuzzy
+msgid "binary|NOT_NULL"
+msgstr "défini"
+
+msgid "binary|NOT_IN"
+msgstr ""
+
+msgid "static_list|="
+msgstr "est"
+
+msgid "static_list|!="
+msgstr "n'est pas"
+
+msgid "static_list|^="
+msgstr ""
+
+msgid "static_list|$="
+msgstr ""
+
+msgid "static_list|=~"
+msgstr ""
+
+msgid "static_list|!~"
+msgstr ""
+
+msgid "static_list|>"
+msgstr ""
+
+msgid "static_list|<"
+msgstr ""
+
+msgid "static_list|>="
+msgstr ""
+
+msgid "static_list|<="
+msgstr ""
+
+msgid "static_list|IN"
+msgstr ""
+
+msgid "static_list|FTS"
+msgstr ""
+
+msgid "static_list|NULL"
+msgstr "n'est pas défini"
+
+msgid "static_list|NOT_NULL"
+msgstr "est défini"
+
+msgid "static_list|NOT_IN"
+msgstr ""
+
+msgid "association|="
+msgstr "est"
+
+msgid "association|!="
+msgstr "n'est pas"
+
+msgid "association|^="
+msgstr ""
+
+msgid "association|$="
+msgstr ""
+
+msgid "association|=~"
+msgstr ""
+
+msgid "association|!~"
+msgstr ""
+
+msgid "association|>"
+msgstr ""
+
+msgid "association|<"
+msgstr ""
+
+msgid "association|>="
+msgstr ""
+
+msgid "association|<="
+msgstr ""
+
+msgid "association|IN"
+msgstr "parmi"
+
+msgid "association|FTS"
+msgstr ""
+
+msgid "association|NULL"
+msgstr "n'est pas défini"
+
+msgid "association|NOT_NULL"
+msgstr "est défini"
+
+msgid "association|NOT_IN"
+msgstr "pas parmi"
+
+msgid "any_object|="
+msgstr ""
+
+msgid "any_object|!="
+msgstr ""
+
+msgid "any_object|^="
+msgstr ""
+
+msgid "any_object|$="
+msgstr ""
+
+msgid "any_object|=~"
+msgstr "contient"
+
+msgid "any_object|!~"
+msgstr ""
+
+msgid "any_object|>"
+msgstr ""
+
+msgid "any_object|<"
+msgstr ""
+
+msgid "any_object|>="
+msgstr ""
+
+msgid "any_object|<="
+msgstr ""
+
+msgid "any_object|IN"
+msgstr ""
+
+msgid "any_object|FTS"
+msgstr ""
+
+msgid "any_object|NULL"
+msgstr ""
+
+msgid "any_object|NOT_NULL"
+msgstr ""
+
+msgid "any_object|NOT_IN"
+msgstr ""
+
+#, fuzzy
+msgid "container|="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|!="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|^="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|$="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|=~"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|!~"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|>"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|<"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|>="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|<="
+msgstr "contient"
+
+#, fuzzy
+msgid "container|IN"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|FTS"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|NULL"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|NOT_NULL"
+msgstr "contient"
+
+#, fuzzy
+msgid "container|NOT_IN"
+msgstr "contient"
+
+msgid "label|="
+msgstr ""
+
+msgid "label|!="
+msgstr ""
+
+msgid "label|^="
+msgstr ""
+
+msgid "label|$="
+msgstr ""
+
+msgid "label|=~"
+msgstr ""
+
+msgid "label|!~"
+msgstr ""
+
+msgid "label|>"
+msgstr ""
+
+msgid "label|<"
+msgstr ""
+
+msgid "label|>="
+msgstr ""
+
+msgid "label|<="
+msgstr ""
+
+msgid "label|IN"
+msgstr ""
+
+msgid "label|FTS"
+msgstr ""
+
+msgid "label|NULL"
+msgstr ""
+
+#, fuzzy
+msgid "label|NOT_NULL"
+msgstr "contient"
+
+msgid "label|NOT_IN"
+msgstr ""
+
+msgid "color|="
+msgstr ""
+
+msgid "color|!="
+msgstr ""
+
+msgid "color|^="
+msgstr ""
+
+msgid "color|$="
+msgstr ""
+
+msgid "color|=~"
+msgstr ""
+
+msgid "color|!~"
+msgstr ""
+
+msgid "color|>"
+msgstr ""
+
+msgid "color|<"
+msgstr ""
+
+msgid "color|>="
+msgstr ""
+
+msgid "color|<="
+msgstr ""
+
+msgid "color|IN"
+msgstr ""
+
+msgid "color|FTS"
+msgstr ""
+
+msgid "color|NULL"
+msgstr ""
+
+#, fuzzy
+msgid "color|NOT_NULL"
+msgstr "contient"
+
+msgid "color|NOT_IN"
+msgstr ""
+
+msgid "Po File: "
+msgstr ""
+
+msgid "Current translation"
+msgstr ""
+
+msgid "Search Message ID: "
+msgstr ""
+
+#, fuzzy
+msgid "Find"
+msgstr "parmi"
+
+msgid "New App Locale"
+msgstr ""
+
+msgid "Application Locales"
+msgstr ""
+
+msgid "%{n} App Locales"
+msgstr ""
+
+#, fuzzy
+msgid "File:"
+msgstr "Fichier"
+
+#, fuzzy
+msgid "Translation"
+msgstr "Présentation"
+
+msgid "Delete Obsolete"
+msgstr ""
+
+msgid "AJAX creation."
+msgstr ""
+
+msgid "AJAX updates."
+msgstr ""
+
+msgid "Adds a new saved_report from sent data or query params."
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+#, fuzzy
+msgid "Data"
+msgstr "à"
+
+msgid "URL: "
+msgstr ""
+
+msgid "Data: "
+msgstr ""
+
+msgid "New Saved Report"
+msgstr ""
+
+msgid "Permalink"
+msgstr ""
+
+msgid "New String"
+msgstr "Nouvelle Chaîne"
+
+#, fuzzy
+msgid "Header"
+msgstr "Recherche"
+
+#, fuzzy
+msgid "Footer"
+msgstr "Filtres"
+
+#, fuzzy
+msgid "Content"
+msgstr "contient"
+
+#, fuzzy
+msgid "Pages"
+msgstr "Par Page"
+
+#, fuzzy
+msgid "Header: "
+msgstr "Utilisateurs : "
+
+#, fuzzy
+msgid "Footer: "
+msgstr "Utilisateurs : "
+
+#, fuzzy
+msgid "Permalink: "
+msgstr "Version : "
+
+msgid "New String: "
+msgstr ""
+
+#, fuzzy
+msgid "Content: "
+msgstr "Commentaire"
+
+#, fuzzy
+msgid "New Page"
+msgstr "Page Suivante"
+
+msgid "Root Maveocs"
+msgstr ""
+
+msgid "New Root Maveoc"
+msgstr ""
+
+msgid "%{n} Root Maveocs"
+msgstr ""
+
+msgid "Help for %{page}"
+msgstr ""
+
+msgid "Background Workers"
+msgstr ""
+
+msgid "Workers"
+msgstr ""
+
+msgid "Background Workers are tasks running in the background."
+msgstr ""
+
+msgid "This is the preferred way for your system administrators to run system-dependent or load-heavy tasks without hampering your application's performance."
+msgstr ""
+
+msgid "The worker list shows the tasks in progress, their statuses and results, all stored in your database."
+msgstr ""
+
+msgid "The task list shows the files in your task directory, and allow your administrators to edit them."
+msgstr ""
+
+msgid "Note: this is direct file edition to your servers' filesystem, so you should be extra careful."
+msgstr ""
+
+msgid "Tasks' code"
+msgstr ""
+
+msgid "FileUtils is Ruby's file management library. The most useful are:"
+msgstr ""
+
+msgid "Changes directory. If block is supplied, the change is local to the block."
+msgstr ""
+
+msgid "Returns the name of the current directory"
+msgstr ""
+
+msgid "Creates named directory or listed directories. With _p, creates intermediate directories if they did not exist."
+msgstr ""
+
+msgid "Removes directory or listed directories."
+msgstr ""
+
+msgid "Links files and directories using the ln, ln -s or ln -s -f command."
+msgstr ""
+
+msgid "Copies (with _r, recursively) files or file list to destination file or destination directory."
+msgstr ""
+
+msgid "Moves files or file list to destination file or destination directory."
+msgstr ""
+
+msgid "Removes file list. With _r, recursive, with _rf, recursive and forcing if warnings."
+msgstr ""
+
+msgid "Changes access rights or owner of file list. With _R, does this recursively."
+msgstr ""
+
+msgid "Updates files access and/or modification times, and creates file if it doesn't exist."
+msgstr ""
+
+msgid "Every: "
+msgstr ""
+
+msgid "Triggered by: "
+msgstr ""
+
+msgid "No duplicate: "
+msgstr ""
+
+#, fuzzy
+msgid "Processes"
+msgstr "Accès"
+
+msgid "PID"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "Exit status"
+msgstr ""
+
+msgid "Stop signal"
+msgstr ""
+
+msgid "Term signal"
+msgstr ""
+
+msgid "Kill Process"
+msgstr ""
+
+#, fuzzy
+msgid "Are you sure that you want to kill this process?"
+msgstr "Êtes-vous sûr de vouloir supprimer %{record} ?"
+
+#, fuzzy
+msgid "New Task"
+msgstr "Tâche"
+
+msgid "New Bg Worker"
+msgstr ""
+
+#, fuzzy
+msgid "Edit Task"
+msgstr "Édition"
+
+#, fuzzy
+msgid "Namespace"
+msgstr "Nom"
+
+#, fuzzy
+msgid "Advanced Options"
+msgstr "Options de Rapport"
+
+msgid "Write named arguments, separated by commas or spaces."
+msgstr ""
+
+msgid "Args"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Bg Workers"
+msgstr ""
+
+msgid "Start Conditions"
+msgstr ""
+
+#, fuzzy
+msgid "Start: "
+msgstr "Parent : "
+
+msgid "Worker"
+msgstr ""
+
+#, fuzzy
+msgid "Priority: "
+msgstr "Position : "
+
+#, fuzzy
+msgid "Planned at: "
+msgstr "Parent : "
+
+msgid "Finished"
+msgstr ""
+
+#, fuzzy
+msgid "Completed at: "
+msgstr "Créé à : "
+
+#, fuzzy
+msgid "Logs: "
+msgstr "Se connecter"
+
+msgid "Statut"
+msgstr ""
+
+#, fuzzy
+msgid "Command"
+msgstr "Entreprise"
+
+#, fuzzy
+msgid "User ID"
+msgstr "Utilisateur"
+
+msgid "From: "
+msgstr ""
+
+#, fuzzy
+msgid "Cron: "
+msgstr "Commentaire : "
+
+#, fuzzy
+msgid "Reports for Every"
+msgstr "Sélecteur de Rapport"
+
+msgid "Maximums of Priority by Every"
+msgstr ""
+
+msgid "Minimums of Priority by Every"
+msgstr ""
+
+msgid "Minimums of Attempts by Every"
+msgstr ""
+
+msgid "Count of records by Every"
+msgstr ""
+
+msgid "Sum of Last return code by Every"
+msgstr ""
+
+msgid "Sum of Priority by Every"
+msgstr ""
+
+msgid "Maximums of Last return code by Every"
+msgstr ""
+
+msgid "Average of Last return code by Every"
+msgstr ""
+
+msgid "Average of Attempts by Every"
+msgstr ""
+
+msgid "Sum of Attempts by Every"
+msgstr ""
+
+msgid "Maximums of Attempts by Every"
+msgstr ""
+
+msgid "Minimums of Last return code by Every"
+msgstr ""
+
+msgid "Average of Priority by Every"
+msgstr ""
+
+msgid "Count of Attempts by Every and Name"
+msgstr ""
+
+msgid "Sum of Last return code by Every and Name"
+msgstr ""
+
+msgid "Count of Attempts by Every and Triggered by"
+msgstr ""
+
+msgid "Count of Priority by Every and Cron"
+msgstr ""
+
+msgid "Count of Attempts by Every and Start"
+msgstr ""
+
+msgid "Count of Last return code by Every and Locked By"
+msgstr ""
+
+msgid "Count of Last return code by Every and Start"
+msgstr ""
+
+msgid "Count of Attempts by Every and Cron"
+msgstr ""
+
+msgid "Sum of Last return code by Every and Cron"
+msgstr ""
+
+msgid "Count of Last return code by Every and Triggered by"
+msgstr ""
+
+msgid "Count of Last return code by Every and Name"
+msgstr ""
+
+msgid "Sum of Priority by Every and Name"
+msgstr ""
+
+msgid "Count of Attempts by Every and Locked By"
+msgstr ""
+
+msgid "Sum of Attempts by Every and Name"
+msgstr ""
+
+msgid "Sum of Attempts by Every and Start"
+msgstr ""
+
+msgid "Sum of Last return code by Every and Locked By"
+msgstr ""
+
+msgid "Sum of Last return code by Every and Start"
+msgstr ""
+
+msgid "Sum of Priority by Every and Triggered by"
+msgstr ""
+
+msgid "Sum of Priority by Every and Locked By"
+msgstr ""
+
+msgid "Count of Priority by Every and Locked By"
+msgstr ""
+
+msgid "Count of Priority by Every and Start"
+msgstr ""
+
+msgid "Count of Last return code by Every and Cron"
+msgstr ""
+
+msgid "Sum of Priority by Every and Cron"
+msgstr ""
+
+msgid "Sum of Attempts by Every and Locked By"
+msgstr ""
+
+msgid "Count of Priority by Every and Triggered by"
+msgstr ""
+
+msgid "Count of Priority by Every and Name"
+msgstr ""
+
+msgid "Sum of Attempts by Every and Cron"
+msgstr ""
+
+msgid "Sum of Attempts by Every and Triggered by"
+msgstr ""
+
+msgid "Sum of Last return code by Every and Triggered by"
+msgstr ""
+
+msgid "Sum of Priority by Every and Start"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Triggered by"
+msgstr "Sélecteur de Rapport"
+
+msgid "Average of Attempts by Triggered by"
+msgstr ""
+
+msgid "Minimums of Last return code by Triggered by"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by"
+msgstr ""
+
+msgid "Maximums of Last return code by Triggered by"
+msgstr ""
+
+msgid "Maximums of Attempts by Triggered by"
+msgstr ""
+
+msgid "Average of Last return code by Triggered by"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by"
+msgstr ""
+
+msgid "Minimums of Priority by Triggered by"
+msgstr ""
+
+msgid "Minimums of Attempts by Triggered by"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by"
+msgstr ""
+
+msgid "Maximums of Priority by Triggered by"
+msgstr ""
+
+msgid "Average of Priority by Triggered by"
+msgstr ""
+
+msgid "Count of records by Triggered by"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by and Locked By"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by and Start"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by and Every"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by and Every"
+msgstr ""
+
+msgid "Count of Priority by Triggered by and Start"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by and Cron"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by and Every"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by and Cron"
+msgstr ""
+
+msgid "Count of Attempts by Triggered by and Every"
+msgstr ""
+
+msgid "Count of Priority by Triggered by and Every"
+msgstr ""
+
+msgid "Count of Attempts by Triggered by and Locked By"
+msgstr ""
+
+msgid "Count of Attempts by Triggered by and Name"
+msgstr ""
+
+msgid "Count of Last return code by Triggered by and Locked By"
+msgstr ""
+
+msgid "Count of Last return code by Triggered by and Name"
+msgstr ""
+
+msgid "Count of Last return code by Triggered by and Start"
+msgstr ""
+
+msgid "Count of Priority by Triggered by and Name"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by and Start"
+msgstr ""
+
+msgid "Count of Attempts by Triggered by and Start"
+msgstr ""
+
+msgid "Count of Last return code by Triggered by and Every"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by and Name"
+msgstr ""
+
+msgid "Count of Attempts by Triggered by and Cron"
+msgstr ""
+
+msgid "Count of Last return code by Triggered by and Cron"
+msgstr ""
+
+msgid "Count of Priority by Triggered by and Cron"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by and Name"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by and Start"
+msgstr ""
+
+msgid "Sum of Attempts by Triggered by and Locked By"
+msgstr ""
+
+msgid "Sum of Last return code by Triggered by and Cron"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by and Locked By"
+msgstr ""
+
+msgid "Count of Priority by Triggered by and Locked By"
+msgstr ""
+
+msgid "Sum of Priority by Triggered by and Name"
+msgstr ""
+
+msgid "List Tasks"
+msgstr ""
+
+msgid "Jobs list"
+msgstr ""
+
+#, fuzzy
+msgid "Run Task"
+msgstr "Tâche"
+
+msgid "Queued Jobs"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "No duplicate"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Planned at"
+msgstr ""
+
+#, fuzzy
+msgid "Completed at"
+msgstr "Créé à"
+
+#, fuzzy
+msgid "Logs"
+msgstr "Se Connecter"
+
+msgid "Clear Queue"
+msgstr ""
+
+msgid "everything"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+#, fuzzy
+msgid "Started At"
+msgstr "Créé à"
+
+msgid "Locked At"
+msgstr ""
+
+msgid "Locked By"
+msgstr ""
+
+#, fuzzy
+msgid "Kill Task"
+msgstr "Tâche"
+
+#, fuzzy
+msgid "Are you sure that you want to kill this task?"
+msgstr "Êtes-vous sûr de vouloir supprimer %{record} ?"
+
+msgid "Thread status"
+msgstr ""
+
+msgid "Not running"
+msgstr ""
+
+msgid "Scheduler thread not running!"
+msgstr ""
+
+msgid "This is normal if you are in development mode, but most background tasks won't execute."
+msgstr ""
+
+msgid "Background Workers: starting worker."
+msgstr ""
+
+msgid "Start Worker"
+msgstr ""
+
+#, fuzzy
+msgid "Tasks"
+msgstr "Tâche"
+
+msgid "Background Workers: opens task edition form."
+msgstr ""
+
+msgid "Background Workers: runs a task (add to job list)."
+msgstr ""
+
+#, fuzzy
+msgid "Add Task"
+msgstr "Tâche"
+
+msgid "Background Workers: opens form for creating a task's Rake file."
+msgstr ""
+
+msgid "Every"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Cron"
+msgstr ""
+
+msgid "Triggered by"
+msgstr ""
+
+msgid "Locked at"
+msgstr ""
+
+msgid "Last return code"
+msgstr ""
+
+msgid "Attempts"
+msgstr ""
+
+#, fuzzy
+msgid "Failed at"
+msgstr "Fichier"
+
+#, fuzzy
+msgid "identification"
+msgstr "Présentation"
+
+msgid "Salutation"
+msgstr ""
+
+#, fuzzy
+msgid "Contact"
+msgstr "contient"
+
+msgid "Address"
+msgstr ""
+
+msgid "CRM"
+msgstr ""
+
+#, fuzzy
+msgid "Meeting date"
+msgstr "Sélecteur de Rapport"
+
+msgid "First Contact"
+msgstr ""
+
+msgid "LastContact"
+msgstr ""
+
+#, fuzzy
+msgid "misc"
+msgstr "est"
+
+#, fuzzy
+msgid "CustomerPosition"
+msgstr "Clients"
+
+#, fuzzy
+msgid "CustomerVersion"
+msgstr "Clients"
+
+#, fuzzy
+msgid "New Color"
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "New Float"
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "New Time"
+msgstr "Nouveau texte"
+
+#, fuzzy
+msgid "New Boolean"
+msgstr "Nouvelle Entreprise"
+
+msgid "New Any Object"
+msgstr ""
+
+msgid "Salutation: "
+msgstr ""
+
+msgid "Test Cache"
+msgstr ""
+
+msgid "Address: "
+msgstr ""
+
+#, fuzzy
+msgid "Meeting date: "
+msgstr "Sélecteur de Rapport"
+
+msgid "First Contact: "
+msgstr ""
+
+msgid "LastContact: "
+msgstr ""
+
+#, fuzzy
+msgid "CustomerVersion: "
+msgstr "Clients : "
+
+#, fuzzy
+msgid "New Color: "
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "New Float: "
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "New Time: "
+msgstr "Nouveau texte"
+
+msgid "New Boolean: "
+msgstr ""
+
+#, fuzzy
+msgid "Adult: "
+msgstr "Auteurs"
+
+#, fuzzy
+msgid "File: "
+msgstr "Fichier"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "Now"
+msgstr "Nouveau"
+
+msgid "Today"
+msgstr ""
+
+msgid "S M T W T F S"
+msgstr ""
+
+msgid "January February March April May June July August September October November December"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Meeting date"
+msgstr "Sélecteur de Rapport"
+
+msgid "Sum of Latitude by week"
+msgstr ""
+
+msgid "Minimums of CA by week"
+msgstr ""
+
+msgid "Maximums of Age by month"
+msgstr ""
+
+msgid "Sum of CustomerVersion by week"
+msgstr ""
+
+msgid "Average of CustomerPosition by week"
+msgstr ""
+
+msgid "Average of CustomerPosition by month"
+msgstr ""
+
+msgid "Minimums of Age by week"
+msgstr ""
+
+msgid "Minimums of New Float by month"
+msgstr ""
+
+msgid "Minimums of CustomerVersion by month"
+msgstr ""
+
+msgid "Minimums of Longitude by month"
+msgstr ""
+
+msgid "Sum of Longitude by week"
+msgstr ""
+
+msgid "Minimums of CA by month"
+msgstr ""
+
+msgid "Average of New Float by month"
+msgstr ""
+
+msgid "Average of Longitude by month"
+msgstr ""
+
+msgid "Minimums of Latitude by week"
+msgstr ""
+
+msgid "Sum of Latitude by month"
+msgstr ""
+
+msgid "Maximums of CA by week"
+msgstr ""
+
+msgid "Average of CA by week"
+msgstr ""
+
+msgid "Sum of Age by week"
+msgstr ""
+
+msgid "Sum of Age by month"
+msgstr ""
+
+msgid "Minimums of New Float by week"
+msgstr ""
+
+msgid "Maximums of CustomerPosition by week"
+msgstr ""
+
+msgid "Minimums of CustomerPosition by month"
+msgstr ""
+
+msgid "Maximums of Longitude by month"
+msgstr ""
+
+msgid "Average of Latitude by week"
+msgstr ""
+
+msgid "Sum of CA by week"
+msgstr ""
+
+msgid "Maximums of Age by week"
+msgstr ""
+
+msgid "Average of Age by week"
+msgstr ""
+
+msgid "Average of CustomerVersion by month"
+msgstr ""
+
+msgid "Maximums of Latitude by week"
+msgstr ""
+
+msgid "Sum of New Float by month"
+msgstr ""
+
+msgid "Sum of CustomerPosition by week"
+msgstr ""
+
+msgid "Maximums of Latitude by month"
+msgstr ""
+
+msgid "Maximums of CustomerVersion by week"
+msgstr ""
+
+msgid "Maximums of CustomerVersion by month"
+msgstr ""
+
+msgid "Maximums of CA by month"
+msgstr ""
+
+msgid "Sum of CA by month"
+msgstr ""
+
+msgid "Average of New Float by week"
+msgstr ""
+
+msgid "Average of CustomerVersion by week"
+msgstr ""
+
+msgid "Sum of CustomerPosition by month"
+msgstr ""
+
+msgid "Minimums of Longitude by week"
+msgstr ""
+
+msgid "Average of Longitude by week"
+msgstr ""
+
+msgid "Sum of Longitude by month"
+msgstr ""
+
+msgid "Average of CA by month"
+msgstr ""
+
+msgid "Minimums of Age by month"
+msgstr ""
+
+msgid "Average of Age by month"
+msgstr ""
+
+msgid "Count of records by Meeting date"
+msgstr ""
+
+msgid "Maximums of New Float by week"
+msgstr ""
+
+msgid "Sum of New Float by week"
+msgstr ""
+
+msgid "Minimums of CustomerVersion by week"
+msgstr ""
+
+msgid "Maximums of CustomerPosition by month"
+msgstr ""
+
+msgid "Minimums of CustomerPosition by week"
+msgstr ""
+
+msgid "Maximums of Longitude by week"
+msgstr ""
+
+msgid "Minimums of Latitude by month"
+msgstr ""
+
+msgid "Average of Latitude by month"
+msgstr ""
+
+msgid "Maximums of New Float by month"
+msgstr ""
+
+msgid "Sum of CustomerVersion by month"
+msgstr ""
+
+#, fuzzy
+msgid "Reports for Salutation"
+msgstr "Sélecteur de Rapport"
+
+msgid "Maximums of CustomerVersion by Salutation"
+msgstr ""
+
+msgid "Minimums of Age by Salutation"
+msgstr ""
+
+msgid "Count of records by Salutation"
+msgstr ""
+
+msgid "Average of New Float by Salutation"
+msgstr ""
+
+msgid "Average of CustomerVersion by Salutation"
+msgstr ""
+
+msgid "Average of Longitude by Salutation"
+msgstr ""
+
+msgid "Minimums of CustomerVersion by Salutation"
+msgstr ""
+
+msgid "Maximums of Longitude by Salutation"
+msgstr ""
+
+msgid "Minimums of Longitude by Salutation"
+msgstr ""
+
+msgid "Maximums of New Float by Salutation"
+msgstr ""
+
+msgid "Minimums of CustomerPosition by Salutation"
+msgstr ""
+
+msgid "Average of Age by Salutation"
+msgstr ""
+
+msgid "Average of CustomerPosition by Salutation"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation"
+msgstr ""
+
+msgid "Sum of Age by Salutation"
+msgstr ""
+
+msgid "Minimums of New Float by Salutation"
+msgstr ""
+
+msgid "Minimums of CA by Salutation"
+msgstr ""
+
+msgid "Maximums of Age by Salutation"
+msgstr ""
+
+msgid "Maximums of CA by Salutation"
+msgstr ""
+
+msgid "Average of CA by Salutation"
+msgstr ""
+
+msgid "Maximums of CustomerPosition by Salutation"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation"
+msgstr ""
+
+msgid "Sum of CA by Salutation"
+msgstr ""
+
+msgid "Sum of New Float by Salutation"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation"
+msgstr ""
+
+msgid "Maximums of Latitude by Salutation"
+msgstr ""
+
+msgid "Minimums of Latitude by Salutation"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation"
+msgstr ""
+
+msgid "Average of Latitude by Salutation"
+msgstr ""
+
+msgid "Count of CA by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of Age by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of CustomerPosition by Salutation and Email"
+msgstr ""
+
+msgid "Sum of New Float by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation and Email"
+msgstr ""
+
+msgid "Count of CustomerPosition by Salutation and Company"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation and Email"
+msgstr ""
+
+msgid "Count of New Float by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of New Float by Salutation and Company"
+msgstr ""
+
+msgid "Count of Age by Salutation and Email"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation and Address"
+msgstr ""
+
+msgid "Count of Latitude by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CA by Salutation and Email"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation and Company"
+msgstr ""
+
+msgid "Count of New Float by Salutation and Email"
+msgstr ""
+
+msgid "Count of CustomerVersion by Salutation and Email"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of CA by Salutation and Address"
+msgstr ""
+
+msgid "Count of CustomerPosition by Salutation and First Name"
+msgstr ""
+
+msgid "Count of CA by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of Age by Salutation and Company"
+msgstr ""
+
+msgid "Count of CustomerVersion by Salutation and Address"
+msgstr ""
+
+msgid "Count of CA by Salutation and Company"
+msgstr ""
+
+msgid "Count of Age by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of CA by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation and Company"
+msgstr ""
+
+msgid "Count of Latitude by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of Longitude by Salutation and First Name"
+msgstr ""
+
+msgid "Count of CustomerVersion by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of CA by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation and Company"
+msgstr ""
+
+msgid "Sum of New Float by Salutation and First Name"
+msgstr ""
+
+msgid "Count of New Float by Salutation and First Name"
+msgstr ""
+
+msgid "Count of Longitude by Salutation and Address"
+msgstr ""
+
+msgid "Count of Longitude by Salutation and Company"
+msgstr ""
+
+msgid "Count of Longitude by Salutation and Email"
+msgstr ""
+
+msgid "Count of Age by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CA by Salutation and Company"
+msgstr ""
+
+msgid "Sum of New Float by Salutation and Email"
+msgstr ""
+
+msgid "Sum of New Float by Salutation and Company"
+msgstr ""
+
+msgid "Sum of New Float by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation and Company"
+msgstr ""
+
+msgid "Count of CustomerVersion by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation and Email"
+msgstr ""
+
+msgid "Count of Latitude by Salutation and Company"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of CustomerPosition by Salutation and Address"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of New Float by Salutation and Address"
+msgstr ""
+
+msgid "Count of Age by Salutation and First Name"
+msgstr ""
+
+msgid "Count of Longitude by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of Latitude by Salutation and Email"
+msgstr ""
+
+msgid "Count of CA by Salutation and Email"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of Age by Salutation and First Name"
+msgstr ""
+
+msgid "Count of CustomerVersion by Salutation and Company"
+msgstr ""
+
+msgid "Count of Latitude by Salutation and First Name"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation and First Name"
+msgstr ""
+
+msgid "Count of CA by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Salutation and Last Name"
+msgstr ""
+
+msgid "Count of Age by Salutation and Company"
+msgstr ""
+
+msgid "Sum of Longitude by Salutation and Email"
+msgstr ""
+
+msgid "Sum of Latitude by Salutation and Address"
+msgstr ""
+
+msgid "Sum of Age by Salutation and Address"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Salutation and Address"
+msgstr ""
+
+msgid "Count of CustomerPosition by Salutation and Last Name"
+msgstr ""
+
+msgid "Sum of Age by Salutation and Email"
+msgstr ""
+
+msgid "Maximums of New Float by Company"
+msgstr ""
+
+msgid "Average of CustomerVersion by Company"
+msgstr ""
+
+msgid "Minimums of CustomerPosition by Company"
+msgstr ""
+
+msgid "Sum of Latitude by Company"
+msgstr ""
+
+msgid "Average of New Float by Company"
+msgstr ""
+
+msgid "Maximums of Latitude by Company"
+msgstr ""
+
+msgid "Average of Longitude by Company"
+msgstr ""
+
+msgid "Sum of New Float by Company"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company"
+msgstr ""
+
+msgid "Maximums of Longitude by Company"
+msgstr ""
+
+msgid "Minimums of Age by Company"
+msgstr ""
+
+msgid "Maximums of CustomerVersion by Company"
+msgstr ""
+
+msgid "Average of Latitude by Company"
+msgstr ""
+
+msgid "Sum of CA by Company"
+msgstr ""
+
+msgid "Sum of Longitude by Company"
+msgstr ""
+
+msgid "Average of CA by Company"
+msgstr ""
+
+msgid "Average of Age by Company"
+msgstr ""
+
+msgid "Maximums of CustomerPosition by Company"
+msgstr ""
+
+msgid "Minimums of Longitude by Company"
+msgstr ""
+
+msgid "Minimums of Latitude by Company"
+msgstr ""
+
+msgid "Maximums of CA by Company"
+msgstr ""
+
+msgid "Maximums of Age by Company"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company"
+msgstr ""
+
+msgid "Minimums of New Float by Company"
+msgstr ""
+
+msgid "Minimums of CustomerVersion by Company"
+msgstr ""
+
+msgid "Average of CustomerPosition by Company"
+msgstr ""
+
+msgid "Sum of Age by Company"
+msgstr ""
+
+msgid "Minimums of CA by Company"
+msgstr ""
+
+msgid "Sum of New Float by Company and Last Name"
+msgstr ""
+
+msgid "Count of Age by Company and Salutation"
+msgstr ""
+
+msgid "Count of CustomerVersion by Company and First Name"
+msgstr ""
+
+msgid "Count of CA by Company and Email"
+msgstr ""
+
+msgid "Count of CustomerPosition by Company and Salutation"
+msgstr ""
+
+msgid "Count of New Float by Company and Salutation"
+msgstr ""
+
+msgid "Sum of Longitude by Company and Salutation"
+msgstr ""
+
+msgid "Count of CA by Company and Address"
+msgstr ""
+
+msgid "Count of CustomerVersion by Company and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company and Email"
+msgstr ""
+
+msgid "Count of CustomerPosition by Company and Address"
+msgstr ""
+
+msgid "Count of Longitude by Company and First Name"
+msgstr ""
+
+msgid "Count of Longitude by Company and Last Name"
+msgstr ""
+
+msgid "Count of New Float by Company and Email"
+msgstr ""
+
+msgid "Count of Longitude by Company and Email"
+msgstr ""
+
+msgid "Count of Age by Company and Address"
+msgstr ""
+
+msgid "Count of Latitude by Company and Address"
+msgstr ""
+
+msgid "Count of New Float by Company and Address"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company and Salutation"
+msgstr ""
+
+msgid "Count of Age by Company and Last Name"
+msgstr ""
+
+msgid "Count of CA by Company and Salutation"
+msgstr ""
+
+msgid "Sum of New Float by Company and Email"
+msgstr ""
+
+msgid "Count of New Float by Company and Last Name"
+msgstr ""
+
+msgid "Sum of Age by Company and Salutation"
+msgstr ""
+
+msgid "Sum of CA by Company and First Name"
+msgstr ""
+
+msgid "Sum of New Float by Company and Address"
+msgstr ""
+
+msgid "Count of Longitude by Company and Address"
+msgstr ""
+
+msgid "Sum of New Float by Company and First Name"
+msgstr ""
+
+msgid "Sum of CA by Company and Last Name"
+msgstr ""
+
+msgid "Sum of Latitude by Company and Address"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company and Salutation"
+msgstr ""
+
+msgid "Count of CA by Company and Last Name"
+msgstr ""
+
+msgid "Count of CustomerVersion by Company and Address"
+msgstr ""
+
+msgid "Count of CustomerVersion by Company and Salutation"
+msgstr ""
+
+msgid "Sum of Latitude by Company and First Name"
+msgstr ""
+
+msgid "Count of Latitude by Company and Last Name"
+msgstr ""
+
+msgid "Count of Longitude by Company and Salutation"
+msgstr ""
+
+msgid "Count of Latitude by Company and Email"
+msgstr ""
+
+msgid "Count of CustomerPosition by Company and Email"
+msgstr ""
+
+msgid "Sum of New Float by Company and Salutation"
+msgstr ""
+
+msgid "Count of CA by Company and First Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company and Address"
+msgstr ""
+
+msgid "Count of Latitude by Company and Salutation"
+msgstr ""
+
+msgid "Count of CustomerPosition by Company and First Name"
+msgstr ""
+
+msgid "Count of Age by Company and First Name"
+msgstr ""
+
+msgid "Sum of Longitude by Company and Email"
+msgstr ""
+
+msgid "Sum of CA by Company and Email"
+msgstr ""
+
+msgid "Sum of Age by Company and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company and Last Name"
+msgstr ""
+
+msgid "Count of CustomerVersion by Company and Email"
+msgstr ""
+
+msgid "Sum of Age by Company and Address"
+msgstr ""
+
+msgid "Sum of CA by Company and Salutation"
+msgstr ""
+
+msgid "Sum of Longitude by Company and First Name"
+msgstr ""
+
+msgid "Sum of Longitude by Company and Address"
+msgstr ""
+
+msgid "Count of New Float by Company and First Name"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company and Last Name"
+msgstr ""
+
+msgid "Sum of Latitude by Company and Email"
+msgstr ""
+
+msgid "Count of Age by Company and Email"
+msgstr ""
+
+msgid "Sum of CA by Company and Address"
+msgstr ""
+
+msgid "Count of CustomerPosition by Company and Last Name"
+msgstr ""
+
+msgid "Sum of Latitude by Company and Salutation"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company and Address"
+msgstr ""
+
+msgid "Sum of Longitude by Company and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company and First Name"
+msgstr ""
+
+msgid "Sum of Age by Company and First Name"
+msgstr ""
+
+msgid "Sum of Age by Company and Email"
+msgstr ""
+
+msgid "Sum of Latitude by Company and Last Name"
+msgstr ""
+
+msgid "Sum of CustomerPosition by Company and First Name"
+msgstr ""
+
+msgid "Sum of CustomerVersion by Company and Email"
+msgstr ""
+
+msgid "Count of Latitude by Company and First Name"
+msgstr ""
+
+msgid "New Customer"
+msgstr "Nouveau Client"
+
+msgid "%{n} Customers"
+msgstr "%{n} Clients"
+
+msgid "Permissions of %{page}"
+msgstr ""
+
+msgid "Page: "
+msgstr ""
+
+msgid "Select [All]"
+msgstr "Sélectionner [Tous]"
+
+msgid "Select [None]"
+msgstr "Sélectionner [Aucun]"
+
+msgid "Effective"
+msgstr ""
+
+msgid "Rights management: display graph."
+msgstr ""
+
+msgid "Rights management: access graph."
+msgstr ""
+
+msgid "Fields"
+msgstr ""
+
+msgid "Rights management: graph per fields."
+msgstr ""
+
+msgid "Read | Write"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Field"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Home Page Profiles"
+msgstr ""
+
+msgid "%{n} Accesses"
+msgstr ""
+
+msgid "Adding a saved report."
+msgstr ""
+
+msgid "Changing queried model."
+msgstr ""
+
+msgid "WARNING: DEPRECATED!\nPlease use \"search\" action instead."
+msgstr ""
+
+msgid "Joining Criteria"
+msgstr ""
+
+msgid "Criteria"
+msgstr ""
+
+msgid "Joining Criteria: "
+msgstr ""
+
+msgid "Table: "
+msgstr ""
+
+msgid "Fields for %{table}"
+msgstr ""
+
+msgid "New Smart Query"
+msgstr ""
+
+msgid "%{n} Smart Queries"
+msgstr ""
+
+msgid "New Entreprise"
+msgstr ""
+
+msgid "Clearing MaVeoC-specific log file."
+msgstr ""
+
+msgid "Really sending the newsletter."
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+#, fuzzy
+msgid "Hits"
+msgstr "est"
+
+msgid "Timestamps"
+msgstr ""
+
+msgid "Sent at"
+msgstr ""
+
+#, fuzzy
+msgid "Activate Hits"
+msgstr "Actif : "
+
+msgid "Activate public file"
+msgstr ""
+
+msgid "Do not send one by one"
+msgstr ""
+
+msgid "Headers"
+msgstr ""
+
+msgid "Reply to"
+msgstr ""
+
+msgid "Text (HTML)"
+msgstr ""
+
+msgid "Text Only"
+msgstr ""
+
+msgid "Text (ascii)"
+msgstr ""
+
+#, fuzzy
+msgid "Public File"
+msgstr "Fichiers publics"
+
+#, fuzzy
+msgid "Activate Hits: "
+msgstr "Actif : "
+
+msgid "Activate public file: "
+msgstr ""
+
+msgid "Do not send one by one: "
+msgstr ""
+
+#, fuzzy
+msgid "Sent at: "
+msgstr "Parent : "
+
+msgid "Reply to: "
+msgstr ""
+
+msgid "Text (ascii): "
+msgstr ""
+
+#, fuzzy
+msgid "New Newsletter"
+msgstr "Nouveau Client"
+
+#, fuzzy
+msgid "%{n} Newsletters"
+msgstr "%{n} Clients"
+
+msgid "Text (HTML): "
+msgstr ""
+
+#, fuzzy
+msgid "Public File: "
+msgstr "Fichiers publics"
+
+#, fuzzy
+msgid "%{record} from %{records}"
+msgstr "Zoom sur %{record} de %{records}"
+
+msgid "%{records}"
+msgstr ""
+

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <title>Translator</title>
+  <%= stylesheet_link_tag :all %>
+  <%= csrf_meta_tag %>
+</head>
+<body>
+
+  <div class="container">
+    <%= yield %>
+  </div>
+
+  <%= javascript_include_tag :defaults %>
+  <%= javascript_include_tag "backbone.queryparams" %>
+  <%= javascript_include_tag "utils" %>
+  <%= javascript_include_tag "waypoints" %>
+  <%= javascript_include_tag "app/models/locale" %>
+  <%= javascript_include_tag "app/collections/locales" %>
+  <%= javascript_include_tag "app/views/locale_dialog" %>
+  <%= javascript_include_tag "app/views/locale" %>
+  <%= javascript_include_tag "app/views/locales" %>
+  <%= javascript_include_tag "app/views/locales_tabs" %>
+  <%= javascript_include_tag "app/routers/locales_router" %>
+  <%= javascript_include_tag "app/app" %>
+
+</body>
+</html>

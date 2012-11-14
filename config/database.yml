@@ -1,0 +1,21 @@
+defaults: &defaults
+  adapter: mysql2
+  encoding: utf8
+  username: root
+
+
+development:
+  database: translator_development
+  <<: *defaults
+
+mysql_development:
+  database: translator_development
+  pool: 250
+  timeout: 5000
+  <<: *defaults
+
+sqlite_development:
+  adapter: sqlite3
+  database: db/locales_development.sqlite3
+  pool: 5
+  timeout: 5000

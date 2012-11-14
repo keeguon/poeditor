@@ -1,0 +1,33 @@
+<div class="row">
+  <div class="span12">
+    <% if @locales.nil? %>
+      <p>There's currently no locales.</p>
+    <% else %>
+      <% unless params.has_key?(:filter) || params[:filter] == "locales" %>
+        <ul>
+          <% @locales.each do |locale| %>
+            <li><%= link_to locale.locale, "locales?filter=locale&locale=#{locale.locale}" %></li>
+          <% end %>
+        </ul>
+      <% else %>
+        <ul id="locales-tabs" class="nav nav-tabs">
+          <li class="active"><a href="#">All</a></li>
+          <li><a href="#" data-fuzzy="false">Non fuzzy</a></li>
+          <li><a href="#" data-fuzzy="true">Fuzzy</a></li>
+          <!--<li><a href="#" data-obsolete="true">Obsolete</a></li>-->
+        </ul>
+
+        <table class="table">
+          <thead>
+            <tr>
+              <th class="span5">MSGID</th>
+              <th class="span5">Translation</th>
+              <th class="span2">Actions</th>
+            </tr>
+          </thead>
+          <tbody id="locales"></tbody>
+        </table>
+      <% end %>
+    <% end %>
+  </div>
+</div>
