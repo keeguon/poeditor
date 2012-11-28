@@ -1,8 +1,9 @@
 defaults: &defaults
-  adapter: mysql2
-  encoding: utf8
+  adapter:  mysql
+  host:     localhost
   username: root
-
+  password: 
+  encoding: utf8
 
 development:
   database: translator_development
@@ -16,6 +17,6 @@ mysql_development:
 
 sqlite_development:
   adapter: sqlite3
-  database: db/locales_development.sqlite3
+  database: /Users/felixbellanger/Desktop/WIP/Faveod/VMs/squeeze64/vhosts/poeditor/db/locales_development.sqlite3
   pool: 5
   timeout: 5000
