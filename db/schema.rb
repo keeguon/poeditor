@@ -11,12 +11,12 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20121109134150) do
+ActiveRecord::Schema.define(:version => 20121218153330) do
 
   create_table "delayed_jobs", :force => true do |t|
-    t.integer  "priority",   :default => 0
-    t.integer  "attempts",   :default => 0
-    t.text     "handler"
+    t.integer  "priority",                         :default => 0
+    t.integer  "attempts",                         :default => 0
+    t.text     "handler",    :limit => 2147483647
     t.text     "last_error"
     t.datetime "run_at"
     t.datetime "locked_at"
@@ -28,17 +28,5 @@ ActiveRecord::Schema.define(:version => 20121109134150) do
   end
 
   add_index "delayed_jobs", ["priority", "run_at"], :name => "delayed_jobs_priority"
-
-  create_table "locales", :force => true do |t|
-    t.text     "msgid",                           :null => false
-    t.text     "msgid_plural"
-    t.text     "msgstr_0",                        :null => false
-    t.text     "msgstr_1"
-    t.string   "locale",                          :null => false
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.boolean  "fuzzy",        :default => false
-    t.boolean  "obsolete",     :default => false
-  end
 
 end

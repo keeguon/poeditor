@@ -2,10 +2,10 @@ require 'fileutils'
 
 class WritePo < Struct.new(:language, :translations)
   def perform
-    filepath = "#{Rails.root}/po/#{language}/#{Rails.application.class.to_s.split('::').first.downcase}.po"
+    file_name = "#{Rails.root}/po/#{language}/#{Rails.application.class.to_s.split('::').first.downcase}.po"
 
-    lock_file(filepath) do
-      File.atomic_write(filepath, "#{filepath}.tmp") { |f| f.print(translations) }
+    lock_file(file_name) do
+      File.atomic_write(file_name) { |f| f.print(translations) }
     end
   end
 

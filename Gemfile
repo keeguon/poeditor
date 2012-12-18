@@ -25,7 +25,6 @@ gem 'delayed_job_active_record'
 gem 'jquery-rails'
 gem 'backbone-rails'
 gem 'get_pomo', :git => 'git://github.com/tiagomatos/get_pomo.git'
-gem 'multi-database-migrations'
 gem 'will_paginate'
 gem 'daemons'
 
