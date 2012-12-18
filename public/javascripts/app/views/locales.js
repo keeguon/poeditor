@@ -50,7 +50,13 @@
       return this;
     };
 
-    LocalesView.prototype.addOne = function(locale) {
+    LocalesView.prototype.addOne = function(locale, index) {
+      // Compute the server index based on current options
+      locale.set({
+        id:      (this.data.page - 1) * this.data.limit + index + (this.data.page - 1),
+        options: this.data
+      });
+
       var view = new LocaleView({ model: locale });
       $(this.el).append(view.render().el);
     };

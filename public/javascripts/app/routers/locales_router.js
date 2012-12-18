@@ -7,7 +7,8 @@
     __extends(LocalesRouter, _super);
 
     LocalesRouter.prototype.routes = {
-      "locales": "index"
+      "locales":               "index",
+      "locales/import_review": "importReview"
     };
 
     function LocalesRouter() {
@@ -16,7 +17,11 @@
 
     LocalesRouter.prototype.index = function(params) {
       var view = new LocalesTabsView({ params: params });
-    }
+    };
+
+    LocalesRouter.prototype.importReview = function(params) {
+      var view = new LocalesImportReviewView({ params: params });
+    };
 
     return LocalesRouter;
 

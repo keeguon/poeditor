@@ -11,6 +11,10 @@
       this.urlRoot = "/locales";
     }
 
+    Locale.prototype.isFuzzy = function() {
+      return /fuzzy\n$/.test(this.get('comment'));
+    };
+
     return Locale;
 
   })(Backbone.Model);

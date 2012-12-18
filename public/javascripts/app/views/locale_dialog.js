@@ -10,7 +10,7 @@
 
     LocaleDialogView.prototype.className = "modal hide fade"
 
-    LocaleDialogView.prototype.template = new EJS({ url: "javascripts/app/templates/locale_dialog.ejs" });
+    LocaleDialogView.prototype.template = new EJS({ url: "/javascripts/app/templates/locale_dialog.ejs" });
 
     LocaleDialogView.prototype.events = {
       "click .save":   "save",
@@ -26,7 +26,7 @@
 
       that = this;
 
-      $(this.el).append(this.template.render(this.model.toJSON()));
+      $(this.el).append(this.template.render({ locale: this.model }));
 
       $("body").append($(this.el));
       this.$modal = $(this.el).modal();

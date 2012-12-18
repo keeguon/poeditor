@@ -6,7 +6,7 @@
       <% unless params.has_key?(:filter) || params[:filter] == "locales" %>
         <ul>
           <% @locales.each do |locale| %>
-            <li><%= link_to locale.locale, "locales?filter=locale&locale=#{locale.locale}" %></li>
+            <li><%= link_to locale, "locales?filter=locale&locale=#{locale}" %></li>
           <% end %>
         </ul>
       <% else %>

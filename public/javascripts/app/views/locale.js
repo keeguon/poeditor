@@ -8,7 +8,7 @@
 
     LocaleView.prototype.tagName = "tr";
 
-    LocaleView.prototype.template = new EJS({ url: "javascripts/app/templates/locale.ejs" });
+    LocaleView.prototype.template = new EJS({ url: "/javascripts/app/templates/locale.ejs" });
 
     LocaleView.prototype.events = {
       "click .edit":    "edit",
@@ -37,7 +37,7 @@
     };
 
     LocaleView.prototype.clear = function() {
-      this.model.destroy();
+      this.model.destroy({ data: $.param(this.model.get('options')) });
 
       return this;
     };
